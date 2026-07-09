@@ -1,0 +1,13 @@
+region,category,revenue,profit,orders,profit_margin,quadrant
+East,Furniture,83700.75,-5.710000000000015,88,-0.00682192214526156,Fix Margin
+West,Furniture,81180.64,998.27,101,1.2296897388342836,Fix Margin
+South,Furniture,69787.99,-5250.57,87,-7.523601123918312,Fix Margin
+West,Technology,62240.26,11136.35,124,17.89251844384969,Double Down
+Central,Furniture,57657.74,1714.17,64,2.9730093479210256,Fix Margin
+South,Technology,53429.7,6079.41,115,11.378334521810904,Fix Margin
+Central,Technology,44559.63,8828.35,86,19.81244009431856,Build Demand
+East,Technology,38862.44,5167.83,103,13.297749703827138,Deprioritize
+East,Office Supplies,5141.94,1528.99,54,29.73566397118598,Build Demand
+South,Office Supplies,4168.22,943.8,42,22.64275877952699,Build Demand
+West,Office Supplies,3940.85,1168.84,40,29.65959120494309,Build Demand
+Central,Office Supplies,3529.17,1166.7,34,33.05876452536999,Build Demand

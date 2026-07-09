@@ -1,0 +1,12 @@
+month_year,revenue,profit,revenue_growth_pct,deviation_from_trend_pct,reason
+2024-03,23764.6,1288.47,29.873337891136266,14.034136440194036,Sharp month-over-month change
+2024-11,23566.05,1583.99,42.52084648712198,0.0,Sharp month-over-month change
+2024-12,29291.32,1561.95,24.294567821081593,24.2945678210816,Large deviation from trend and sharp month-over-month change
+2025-01,13317.85,1059.27,-54.53311766079507,-27.581809876999706,Large deviation from trend and sharp month-over-month change
+2025-02,18390.2,1022.55,38.08685335846251,0.0,Sharp month-over-month change
+2025-03,36229.05,2513.65,97.00193581363988,97.00193581363989,Large deviation from trend and sharp month-over-month change
+2025-04,12895.55,536.63,-64.40549779803777,-40.04693759614978,Large deviation from trend and sharp month-over-month change
+2025-05,21509.41,1415.3500000000001,66.79715095517447,18.929034298504018,Large deviation from trend and sharp month-over-month change
+2025-08,25066.29,1366.97,22.307101156161036,22.307101156161036,Large deviation from trend and sharp month-over-month change
+2025-09,19843.54,1892.17,-20.835751920208377,-20.835751920208377,Large deviation from trend
+2025-10,26939.2,2127.08,35.75803510865501,5.344701305272906,Sharp month-over-month change

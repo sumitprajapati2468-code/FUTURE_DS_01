@@ -1,0 +1,967 @@
+order_id,order_date,customer_id,product_name,category,sub_category,region,state,quantity,unit_price,discount,sales,profit,ship_mode,segment
+ORD-010000,03-Jan-2024,CUST-5053,ERGONOMIC OFFICE CHAIR,furniture,Chairs, South , Florida ,4,200.02,0.13,692.52,-11.53,FIRST CLASS,Consumer
+ORD-010001,03-Jan-2024,CUST-7838,Smart LED Monitor,technology,monitors,south,North Carolina,3,$222.76,0.14,572.37,73.2,first class, Corporate 
+ORD-010002,06-Jan-2024,CUST-4933,Ergonomic Office Chair, Furniture ,CHAIRS,EAST,New York,5,192.31,0.13,840.39,-6.36,standard class, Corporate 
+ORD-010003,2024-01-07,CUST-8025,MODULAR BOOKSHELF,furniture,STORAGE,WEST,Washington,5,$170.95,0.11,758.73,-28.83,Second Class, Corporate 
+ORD-010004,18-Jan-2024,CUST-2931,desk organizer set,office supplies, Storage , Central ,Colorado,3,$35.08,0.08,96.3,39.19,Standard Class,consumer
+ORD-010005,2024-01-21,CUST-1810, Wireless Keyboard ,TECHNOLOGY,ACCESSORIES,south,NORTH CAROLINA,5,75.35,0.14,$324.33,79.54,Standard Class,consumer
+ORD-010006,2024-01-11,CUST-5455,ERGONOMIC OFFICE CHAIR,furniture,chairs, East , Pennsylvania ,5,187.48,0.07,870.9,43.48,SAME DAY,home office
+ORD-010007,2024-01-07,CUST-7825,smart led monitor,TECHNOLOGY,MONITORS,south,florida,5,231.18,0.17,964.93,$102.69,STANDARD CLASS, Home Office 
+ORD-010008,01/06/2024,CUST-9906,SMART LED MONITOR,technology,monitors,EAST,PENNSYLVANIA,1,$242.40,0.11,215.14,35.1,standard class, Home Office 
+ORD-010009,01/30/2024,CUST-5685, Smart LED Monitor ,technology,monitors,East,massachusetts,4,209.47,0.07,$783.11,157.84, Standard Class ,consumer
+ORD-010010,21-Jan-2024,CUST-3071,Modular Bookshelf,Furniture,Storage,EAST,NEW YORK,2,169.88,0.19,274.57,-39.23,standard class,Home Office
+ORD-010011,2024-01-17,CUST-2363, Ergonomic Office Chair ,Furniture,CHAIRS, East , New Jersey ,5,202.55,0.11,904.31,16.6,Standard Class, Home Office 
+ORD-010012,01-Jan-2024,CUST-1608, Compact Printer , Technology ,Printers,EAST,New Jersey,1,140.02,0.15,118.49,-12.23,standard class,consumer
+ORD-010013,2024-01-06,CUST-9722,Desk Organizer Set,office supplies,STORAGE, South ,GEORGIA,3,34.46,0.13,89.5,29.67,Standard Class,CORPORATE
+ORD-010014,2024-01-31,CUST-3823, Modular Bookshelf ,FURNITURE,storage, West , Washington ,1,$165.73,0.13,144.66,-8.4, Standard Class ,Corporate
+ORD-010015,19-Jan-2024,CUST-1160,SMART LED MONITOR,Technology,monitors, East ,new york,5,226.37,0.07,1052.45,210.03, Standard Class , Corporate 
+ORD-010016,01/12/2024,CUST-3230,compact printer,Technology, Printers ,EAST, New Jersey ,1,$138.48,0.14,$119.18,-10.18, First Class ,consumer
+ORD-010017,01/05/2024,CUST-2039,PREMIUM NOTEBOOK BUNDLE,Office Supplies,PAPER,East,New York,5,$18.31,0.12,80.83,30.79,Standard Class, Consumer 
+ORD-010018,2024-01-16,CUST-6782,ERGONOMIC OFFICE CHAIR, Furniture ,chairs,east,Pennsylvania,6,201.52,0.1,1082.47,$22.17,Standard Class, Consumer 
+ORD-010019,01/27/2024,CUST-6781,SMART LED MONITOR, Technology ,MONITORS,South, North Carolina ,3,218.83,0.17,547.57,56.9,FIRST CLASS, Corporate 
+ORD-010020,01/05/2024,CUST-4297,COMPACT PRINTER,technology,printers,west,Washington,1,140.82,0.02,138.22,7.09,STANDARD CLASS, Consumer 
+ORD-010021,01/18/2024,CUST-2590,ERGONOMIC OFFICE CHAIR,Furniture,Chairs,CENTRAL,TEXAS,7,205.59,0.12,"$1,273.11",18.2,SECOND CLASS,Consumer
+ORD-010022,06-Jan-2024,CUST-9968, Modular Bookshelf , Furniture , Storage ,West,oregon,5,161.08,0.11,$718.68,-26.9,Second Class,Corporate
+ORD-010023,29-Jan-2024,CUST-2252, Wireless Keyboard , Technology ,Accessories, Central ,Texas,3,$74.21,0.08,204.68,63.43, Standard Class , Corporate 
+ORD-010024,01/25/2024,CUST-9650,Modular Bookshelf,Furniture, Storage ,EAST,massachusetts,5,170.83,0.14,736.09,-52.42, Standard Class , Consumer 
+ORD-010025,27-Jan-2024,CUST-8900,DESK ORGANIZER SET,Office Supplies,Storage,east,NEW YORK,2,35.17,0.14,$60.73,21.17,STANDARD CLASS, Home Office 
+ORD-010026,2024-01-10,CUST-8911,ERGONOMIC OFFICE CHAIR,furniture, Chairs , East ,Pennsylvania,3,201.2,0.15,514.06,-15.32,Standard Class,HOME OFFICE
+ORD-010027,2024-01-08,CUST-6905, Ink Cartridge Pack ,Office Supplies,Supplies,West,California,2,59.46,0.06,111.35,24.08,Standard Class,home office
+ORD-010028,26-Jan-2024,CUST-2023,Smart LED Monitor,TECHNOLOGY,MONITORS,SOUTH,TENNESSEE,7,238.98,0.16,1410.33,$163.89, Standard Class ,CONSUMER
+ORD-010029,2024-01-31,CUST-8956,premium standing desk,FURNITURE,tables,West,california,5,456.06,0.06,2139.76,173.93,Second Class,CONSUMER
+ORD-010030,2024-01-05,CUST-6842,compact printer, Technology ,Printers,Central,minnesota,3,137.09,0.12,363.48,$-18.85,SECOND CLASS, Corporate 
+ORD-010031,02/05/2024,CUST-6413,ergonomic office chair, Furniture ,Chairs,east,new york,5,201.5,0.13,877.43,-6.06,standard class,CORPORATE
+ORD-010032,02/10/2024,CUST-5736,modular bookshelf, Furniture ,STORAGE, Central ,COLORADO,4,166.71,0.12,585.69,-28.31,STANDARD CLASS,CORPORATE
+ORD-010033,2024-02-24,CUST-5387,Desk Organizer Set,OFFICE SUPPLIES,storage,East,MASSACHUSETTS,5,$35.48,0.11,157.28,57.64,standard class,consumer
+ORD-010034,11-Feb-2024,CUST-7188,Smart LED Monitor,TECHNOLOGY, Monitors ,central, Colorado ,2,$251.17,0.05,476.73,105.45,FIRST CLASS,consumer
+ORD-010035,24-Feb-2024,CUST-8585,premium standing desk,furniture,Tables, South , Florida ,7,433.06,0.15,2588.68,$-37.07,standard class,Consumer
+ORD-010036,02/29/2024,CUST-3419,Ink Cartridge Pack, Office Supplies , Supplies , West ,OREGON,2,57.73,0.09,104.8,19.89,STANDARD CLASS,Consumer
+ORD-010037,02/25/2024,CUST-9185,ergonomic office chair,FURNITURE,Chairs, Central ,minnesota,4,201.36,0.12,709.21,$5.65,first class,Corporate
+ORD-010038,06-Feb-2024,CUST-5033,ink cartridge pack,office supplies,Supplies,CENTRAL,TEXAS,2,60.75,0.09,110.37,22.16,Standard Class,HOME OFFICE
+ORD-010039,02/23/2024,CUST-8800,Compact Printer,Technology,PRINTERS,EAST, New Jersey ,5,125.6,0.11,557.21,-32.93,same day,Corporate
+ORD-010040,2024-02-09,CUST-8874, Ergonomic Office Chair , Furniture ,chairs,central, Minnesota ,7,185.85,0.09,1190.17,$45.80,First Class,CORPORATE
+ORD-010041,2024-02-28,CUST-7863,DESK ORGANIZER SET,OFFICE SUPPLIES, Storage ,South, Georgia ,-1,31.71,0.16,133.86,$40.76, Standard Class ,Corporate
+ORD-010042,2024-02-16,CUST-6494,COMPACT PRINTER,technology,Printers,south, Georgia ,1,135.55,0.16,113.95,-13.34,STANDARD CLASS,HOME OFFICE
+ORD-010043,02/06/2024,CUST-9987,ERGONOMIC OFFICE CHAIR,furniture, Chairs ,west,OREGON,7,203.18,0.13,1236.93,-7.25,Second Class,CORPORATE
+ORD-010044,2024-02-03,CUST-3716,ergonomic office chair, Furniture ,CHAIRS, South ,north carolina,3,212.28,0.17,526.08,-31.38,STANDARD CLASS,CONSUMER
+ORD-010045,02/10/2024,CUST-6880,Ergonomic Office Chair,furniture, Chairs ,South,georgia,3,$194.84,0.2,469.44,-46.17,first class,Corporate
+ORD-010046,13-Feb-2024,CUST-9122,desk organizer set, Office Supplies ,storage,South,North Carolina,4,$35.70,0.16,119.69,37.54,SECOND CLASS, Corporate 
+ORD-010047,2024-02-02,CUST-3374,ERGONOMIC OFFICE CHAIR, Furniture ,chairs,West,Oregon,7,$192.77,0.08,1240.01,$54.09, Standard Class ,CONSUMER
+ORD-010048,2024-02-13,CUST-5572,premium standing desk,furniture,Tables,east,pennsylvania,2,461.6,0.13,803.63,7.6,first class,Consumer
+ORD-010049,08-Feb-2024,CUST-8774,PREMIUM STANDING DESK,Furniture,Tables,EAST,Pennsylvania,7,$454.08,0.18,2602.76,$-140.13, Standard Class ,Consumer
+ORD-010050,2024-02-08,CUST-8679,SMART LED MONITOR,TECHNOLOGY,monitors,West, Oregon ,5,219.65,0.12,964.74,148.0, First Class ,CONSUMER
+ORD-010051,2024-02-11,CUST-2946,COMPACT PRINTER,technology,PRINTERS,south, Georgia ,1,$143.75,0.12,126.82,$-7.68,First Class,CORPORATE
+ORD-010052,22-Feb-2024,CUST-2293,MODULAR BOOKSHELF,FURNITURE,Storage,Central, Illinois ,2,170.73,0.15,$291.06,$-22.77,SECOND CLASS,CONSUMER
+ORD-010053,27-Feb-2024,CUST-1454,compact printer,TECHNOLOGY,Printers,west,nevada,3,137.87,0.08,$379.89,-5.7,SECOND CLASS,Consumer
+ORD-010054,18-Feb-2024,CUST-6101,premium notebook bundle, Office Supplies ,PAPER, West ,California,4,18.25,0.03,$70.65,31.92,second class,corporate
+ORD-010055,2024-02-14,CUST-7137,Ergonomic Office Chair, Furniture , Chairs , West , Oregon ,6,200.94,0.1,1090.0,34.27,SAME DAY, Consumer 
+ORD-010056,22-Feb-2024,CUST-8789, Ergonomic Office Chair , Furniture ,CHAIRS,East,New York,5,211.43,0.14,$905.07,-18.15,Standard Class, Home Office 
+ORD-010057,03/10/2024,CUST-9417,INK CARTRIDGE PACK,office supplies,Supplies,East,pennsylvania,4,61.01,0.2,$194.92,$14.98,standard class,corporate
+ORD-010058,19-Mar-2024,CUST-9779,Ergonomic Office Chair,furniture,CHAIRS,South,north carolina,4,198.54,0.13,$691.28,-8.03,Standard Class, Consumer 
+ORD-010059,10-Mar-2024,CUST-1946, Compact Printer ,TECHNOLOGY, Printers ,east, New Jersey ,1,$137.77,0.1,$124.05,-4.69,First Class,HOME OFFICE
+ORD-010060,03/17/2024,CUST-6257,SMART LED MONITOR,TECHNOLOGY,MONITORS,south, North Carolina ,5,229.35,0.14,991.14,135.47,standard class,Home Office
+ORD-010061,03/28/2024,CUST-4721,Cordless Phone Dock,technology,Accessories,West, California ,2,66.18,0.04,127.7,33.53,FIRST CLASS,CONSUMER
+ORD-010062,01-Mar-2024,CUST-5063,PREMIUM STANDING DESK,furniture,TABLES, West ,oregon,2,$451.14,0.08,$830.41,52.14,Standard Class,corporate
+ORD-010063,2024-03-28,CUST-1014,cordless phone dock, Technology ,ACCESSORIES,West,washington,3,65.77,0.04,189.47,49.05, Standard Class , Home Office 
+ORD-010064,03/22/2024,CUST-1513, Desk Organizer Set ,OFFICE SUPPLIES,STORAGE,South, Georgia ,3,34.65,0.16,87.75,27.66,STANDARD CLASS,consumer
+ORD-010065,03/13/2024,CUST-8087,COMPACT PRINTER,technology,printers,West, Oregon ,5,134.87,0.07,626.46,-2.99,standard class,CONSUMER
+ORD-010066,03-Mar-2024,CUST-9890,compact printer,technology, Printers ,EAST,MASSACHUSETTS,5,140.28,0.05,668.82,14.1,First Class,consumer
+ORD-010067,05-Mar-2024,CUST-3973,cordless phone dock,Technology,ACCESSORIES,east,massachusetts,4,66.93,0.1,241.98,$50.48, Standard Class ,Home Office
+ORD-010068,2024-03-25,CUST-7760,Compact Printer, Technology ,PRINTERS,Central,Colorado,4,132.13,0.08,$484.53,-7.78,first class,HOME OFFICE
+ORD-010069,03/19/2024,CUST-1577,ink cartridge pack,OFFICE SUPPLIES, Supplies ,WEST,,3,58.14,0.0,$174.42,46.21,STANDARD CLASS, Corporate 
+ORD-010070,03/27/2024,CUST-8316,compact printer, Technology ,Printers,east, New York ,5,133.69,0.12,585.76,-39.98,Standard Class,CORPORATE
+ORD-010071,03/19/2024,CUST-5155,DESK ORGANIZER SET,office supplies,storage,south,Florida,3,36.0,0.09,98.09,$36.05,standard class,Consumer
+ORD-010072,2024-03-05,CUST-2733, Ergonomic Office Chair ,Furniture,Chairs,south,florida,5,190.13,0.17,786.07,$-54.44,STANDARD CLASS, Home Office 
+ORD-010073,2024-03-28,CUST-4811,DESK ORGANIZER SET,OFFICE SUPPLIES,Storage,WEST,california,3,32.1,0.06,90.93,36.91,FIRST CLASS,Consumer
+ORD-010074,03/06/2024,CUST-7867,smart led monitor,technology, Monitors ,CENTRAL, Colorado ,3,239.35,0.11,636.58,105.18,Standard Class,CORPORATE
+ORD-010075,2024-03-29,CUST-3524,Desk Organizer Set,OFFICE SUPPLIES,Storage,East,New York,5,34.11,0.09,154.58,$58.22,standard class,CORPORATE
+ORD-010076,03/18/2024,CUST-4810,premium notebook bundle,OFFICE SUPPLIES,PAPER,WEST,california,1,17.36,0.0,17.36,8.04,FIRST CLASS,consumer
+ORD-010077,2024-03-24,CUST-8407,Ergonomic Office Chair,furniture,CHAIRS, West , Oregon ,3,202.77,0.13,526.69,-5.55,Standard Class,Consumer
+ORD-010078,2024-03-06,CUST-6097,LED DESK LAMP,FURNITURE,lighting, South ,tennessee,3,$47.30,0.14,$122.26,16.44,STANDARD CLASS,corporate
+ORD-010079,03/05/2024,CUST-2462,premium standing desk,furniture,TABLES,EAST,PENNSYLVANIA,4,$435.31,0.07,"$1,612.42",106.59,STANDARD CLASS, Corporate 
+ORD-010080,27-Mar-2024,CUST-5266,COMPACT PRINTER,technology,Printers,west,NEVADA,5,144.6,0.13,$626.41,-45.84,Standard Class,consumer
+ORD-010081,10-Mar-2024,CUST-6493,premium standing desk,Furniture, Tables , West ,Oregon,5,$433.20,0.09,"$1,981.76",$109.62, Standard Class ,consumer
+ORD-010082,05-Mar-2024,CUST-1560,smart led monitor,technology, Monitors ,South,NORTH CAROLINA,7,232.76,0.2,"$1,311.35",96.22,standard class,consumer
+ORD-010083,2024-03-15,CUST-9835,Wireless Keyboard, Technology , Accessories ,South,TENNESSEE,2,71.65,0.16,120.17,26.62, Standard Class ,CONSUMER
+ORD-010084,03/31/2024,CUST-4153,INK CARTRIDGE PACK,office supplies,supplies, South ,north carolina,2,61.28,0.09,$112.10,$20.75,STANDARD CLASS,CORPORATE
+ORD-010085,2024-03-24,CUST-7019, Ergonomic Office Chair ,Furniture,CHAIRS, West , Nevada ,5,192.34,0.11,859.82,$14.44,same day,CORPORATE
+ORD-010086,03/01/2024,CUST-1049,MODULAR BOOKSHELF, Furniture , Storage ,central, Illinois ,1,154.33,0.14,132.45,-10.53, Standard Class ,CONSUMER
+ORD-010087,17-Mar-2024,CUST-6347, Desk Organizer Set , Office Supplies ,STORAGE,east,New York,2,31.86,0.12,56.09,19.71,First Class,CONSUMER
+ORD-010088,2024-03-12,CUST-3559,COMPACT PRINTER,technology,PRINTERS, East ,New Jersey,5,132.44,0.09,604.03,-16.2,First Class,HOME OFFICE
+ORD-010089,03/20/2024,CUST-2256,COMPACT PRINTER,Technology,printers,east,New York,4,144.38,0.11,515.14,-23.07,Second Class,consumer
+ORD-010090,03/05/2024,CUST-4323, Smart LED Monitor ,technology, Monitors ,CENTRAL,Minnesota,7,221.69,0.06,1454.82,303.9,standard class,Corporate
+ORD-010091,2024-03-30,CUST-8840,CORDLESS PHONE DOCK,TECHNOLOGY,accessories, South ,tennessee,1,$71.05,0.18,58.6,7.5, Second Class ,Home Office
+ORD-010092,03/27/2024,CUST-9489,ERGONOMIC OFFICE CHAIR,Furniture, Chairs , South ,florida,3,186.94,0.21,441.04,-55.62,SAME DAY,home office
+ORD-010093,03/12/2024,CUST-8018,WIRELESS KEYBOARD,technology,Accessories, East , Massachusetts ,5,$74.28,0.04,$357.03,117.91,STANDARD CLASS,consumer
+ORD-010094,2024-03-18,CUST-2335,Premium Standing Desk,Furniture,TABLES,east, New Jersey ,6,470.24,0.08,2593.86,163.29,STANDARD CLASS, Consumer 
+ORD-010095,2024-03-15,CUST-8643,compact printer,technology, Printers ,South,NORTH CAROLINA,5,134.26,0.2,538.47,-92.28,Standard Class,HOME OFFICE
+ORD-010096,03/06/2024,CUST-5675,Ergonomic Office Chair,FURNITURE, Chairs ,west,nevada,6,191.61,0.1,1034.07,23.17, Standard Class , Corporate 
+ORD-010097,2024-03-20,CUST-5279,COMPACT PRINTER,Technology, Printers , West ,CALIFORNIA,4,151.93,0.09,552.94,-10.66,STANDARD CLASS,Home Office
+ORD-010098,03/21/2024,CUST-8308,compact printer,TECHNOLOGY,Printers,EAST,new jersey,3,134.97,0.13,350.78,$-28.05,standard class,consumer
+ORD-010099,04/09/2024,CUST-3621,desk organizer set,OFFICE SUPPLIES,Storage, South ,FLORIDA,4,32.02,0.21,$100.75,25.67, Standard Class , Consumer 
+ORD-010100,25-Apr-2024,CUST-3162, Smart LED Monitor ,TECHNOLOGY,MONITORS,West, Washington ,2,223.3,0.08,411.22,79.27,standard class,corporate
+ORD-010101,2024-04-08,CUST-4948,PREMIUM STANDING DESK,furniture, Tables ,east, Pennsylvania ,4,484.88,0.13,1690.29,21.9,Standard Class,CONSUMER
+ORD-010102,19-Apr-2024,CUST-1730,PREMIUM NOTEBOOK BUNDLE,Office Supplies,PAPER,south,north carolina,3,17.86,0.13,46.53,15.56,first class,CONSUMER
+ORD-010103,21-Apr-2024,CUST-2153,smart led monitor,TECHNOLOGY,monitors, West ,NEVADA,3,220.48,0.02,647.58,155.75,FIRST CLASS,consumer
+ORD-010104,29-Apr-2024,CUST-2578,Premium Standing Desk, Furniture , Tables ,west, Oregon ,2,$424.29,0.1,766.09,31.85, Second Class ,consumer
+ORD-010105,2024-04-21,CUST-6208,ergonomic office chair,FURNITURE, Chairs , South ,Florida,3,$186.37,0.21,444.18,-51.1, First Class ,Corporate
+ORD-010106,2024-04-03,CUST-2759,PREMIUM STANDING DESK,furniture,tables,east,MASSACHUSETTS,7,419.89,0.13,2569.4,22.74, Standard Class ,Consumer
+ORD-010107,2024-04-30,CUST-2563,Ergonomic Office Chair,furniture,chairs,South,georgia,1,198.56,0.14,170.24,-4.61,STANDARD CLASS,consumer
+ORD-010108,2024-04-29,CUST-1316,Ergonomic Office Chair,Furniture, Chairs ,WEST,washington,1,222.2,0.13,193.62,0.66, First Class ,Consumer
+ORD-010109,17-Apr-2024,CUST-2431, Premium Standing Desk ,Furniture,TABLES, West ,nevada,7,434.08,0.07,2834.05,208.03,Standard Class, Corporate 
+ORD-010110,04/21/2024,CUST-8488, Desk Organizer Set , Office Supplies , Storage , East ,Pennsylvania,1,34.07,0.04,32.79,13.53, Second Class ,Consumer
+ORD-010111,04/12/2024,CUST-1639, Desk Organizer Set ,Office Supplies,Storage,SOUTH,florida,4,37.25,0.14,127.46,42.34,SECOND CLASS,consumer
+ORD-010112,04/08/2024,CUST-9530,LED Desk Lamp,furniture,Lighting, South ,TENNESSEE,2,44.9,0.17,74.35,$6.88,second class,home office
+ORD-010113,11-Apr-2024,CUST-3009,PREMIUM NOTEBOOK BUNDLE,OFFICE SUPPLIES, Paper ,west,Nevada,2,17.61,0.1,31.69,12.84, Standard Class ,Home Office
+ORD-010114,2024-04-20,CUST-6763,smart led monitor,Technology,Monitors, South , Georgia ,4,231.17,0.07,861.23,$171.47, Standard Class ,consumer
+ORD-010115,04/10/2024,CUST-1641,Ink Cartridge Pack, Office Supplies ,Supplies,South,Tennessee,5,55.84,0.16,234.19,24.33,Standard Class,Consumer
+ORD-010116,2024-04-16,CUST-2527,ink cartridge pack, Office Supplies , Supplies ,central,colorado,3,57.78,0.01,171.69,45.42,Standard Class, Consumer 
+ORD-010117,2024-04-23,CUST-3654, Premium Notebook Bundle ,OFFICE SUPPLIES,Paper,west,oregon,5,18.64,0.05,88.29,39.08,SECOND CLASS, Home Office 
+ORD-010118,21-Apr-2024,CUST-3001,modular bookshelf,furniture, Storage ,CENTRAL, Illinois ,3,161.89,0.06,455.07,6.85,Standard Class, Consumer 
+ORD-010119,2024-04-28,CUST-1646,wireless keyboard,TECHNOLOGY,ACCESSORIES,central,TEXAS,4,74.62,0.02,291.67,102.36, Second Class ,CORPORATE
+ORD-010120,11-Apr-2024,CUST-2939,PREMIUM STANDING DESK, Furniture ,Tables,West, Washington ,1,$453.92,0.11,404.11,12.7,second class,CONSUMER
+ORD-010121,28-Apr-2024,CUST-3015,ERGONOMIC OFFICE CHAIR,furniture,chairs,south,FLORIDA,2,199.32,0.18,326.89,-24.02,first class,Home Office
+ORD-010122,28-Apr-2024,CUST-4957,Compact Printer, Technology ,printers, South , North Carolina ,3,142.58,0.19,345.3,-55.12, First Class ,CONSUMER
+ORD-010123,04/20/2024,CUST-2144,wireless keyboard,Technology,ACCESSORIES, East , Massachusetts ,3,78.38,0.09,213.74,63.02,standard class,Consumer
+ORD-010124,2024-04-01,CUST-1200, Ergonomic Office Chair ,Furniture,Chairs,WEST,CALIFORNIA,3,204.35,0.1,552.04,$16.00,second class, Consumer 
+ORD-010125,2024-04-21,CUST-2268,INK CARTRIDGE PACK,Office Supplies,SUPPLIES, West , Oregon ,1,58.12,0.09,52.68,9.95, Standard Class ,corporate
+ORD-010126,04/22/2024,CUST-7989,PREMIUM STANDING DESK, Furniture ,Tables,WEST,California,3,412.94,0.11,1098.15,24.72,Second Class,Corporate
+ORD-010127,18-Apr-2024,CUST-5792,Premium Standing Desk,furniture, Tables ,EAST, New York ,2,$429.68,0.11,761.18,17.5,Standard Class, Home Office 
+ORD-010128,04/29/2024,CUST-5515,LED Desk Lamp,FURNITURE,LIGHTING,CENTRAL,Minnesota,1,50.29,0.0,50.29,14.3,STANDARD CLASS,CORPORATE
+ORD-010129,04/12/2024,CUST-7606,Ergonomic Office Chair,Furniture, Chairs , South ,FLORIDA,4,185.32,0.21,588.83,-68.18,standard class,home office
+ORD-010130,21-Apr-2024,CUST-4735,premium standing desk, Furniture , Tables ,Central,minnesota,6,416.62,0.09,2282.97,120.4,standard class, Consumer 
+ORD-010131,04/21/2024,CUST-2683,WIRELESS KEYBOARD,Technology,Accessories,SOUTH,georgia,4,$74.49,0.13,259.37,65.58,STANDARD CLASS,CONSUMER
+ORD-010132,04/12/2024,CUST-5108,ergonomic office chair,furniture, Chairs , West ,Oregon,4,183.93,0.14,634.97,$-14.41,standard class,CONSUMER
+ORD-010133,2024-04-10,CUST-9134,ergonomic office chair, Furniture , Chairs ,EAST,MASSACHUSETTS,4,203.34,0.14,696.5,$-16.19,second class,corporate
+ORD-010134,04/03/2024,CUST-1028,wireless keyboard,Technology, Accessories ,west,nevada,2,$73.72,0.12,$129.85,35.46, First Class ,consumer
+ORD-010135,30-Apr-2024,CUST-7533, Wireless Keyboard ,Technology,accessories,West,oregon,3,74.04,0.1,200.65,58.5, Standard Class , Corporate 
+ORD-010136,05/07/2024,CUST-4196,ergonomic office chair,furniture,chairs,WEST,washington,0,206.93,0.09,562.56,20.32,second class,consumer
+ORD-010137,05/02/2024,CUST-2176,ink cartridge pack, Office Supplies , Supplies , East ,New York,4,61.74,0.05,235.3,53.38,STANDARD CLASS,corporate
+ORD-010138,2024-05-11,CUST-3329,Premium Standing Desk, Furniture ,Tables, East ,Pennsylvania,6,466.32,0.12,"$2,451.14",39.83,same day,Consumer
+ORD-010139,05/11/2024,CUST-9916,ergonomic office chair, Furniture ,Chairs,EAST, New Jersey ,3,202.08,0.14,518.79,-12.7,STANDARD CLASS,CORPORATE
+ORD-010140,24-May-2024,CUST-9947,ink cartridge pack, Office Supplies ,Supplies,East,new jersey,1,$61.06,0.12,53.88,8.87,SAME DAY, Consumer 
+ORD-010141,09-May-2024,CUST-4534, Premium Notebook Bundle ,office supplies,Paper, West ,Oregon,4,18.36,0.08,67.29,28.38,standard class,CONSUMER
+ORD-010142,05/19/2024,CUST-9684,ergonomic office chair,FURNITURE, Chairs ,West, Oregon ,3,216.56,0.12,573.83,$8.48, Standard Class ,HOME OFFICE
+ORD-010143,2024-05-09,CUST-1529,premium standing desk,FURNITURE,Tables, South ,Georgia,3,497.56,0.17,1241.36,-42.65,Second Class,corporate
+ORD-010144,05/06/2024,CUST-2406,CORDLESS PHONE DOCK,Technology,ACCESSORIES, South , Florida ,2,63.86,0.16,107.08,14.38,second class, Consumer 
+ORD-010145,05/22/2024,CUST-5958, Smart LED Monitor , Technology ,monitors,south,FLORIDA,6,$221.21,0.13,"$1,156.78",165.16,Standard Class,consumer
+ORD-010146,2024-05-16,CUST-8823,COMPACT PRINTER,technology,printers, West ,Nevada,5,139.1,0.02,682.21,34.19,Standard Class,Consumer
+ORD-010147,2024-05-11,CUST-9694,premium standing desk,FURNITURE,Tables, Central , Texas ,2,$445.82,0.08,819.32,50.57, Standard Class ,CORPORATE
+ORD-010148,18-May-2024,CUST-8823,WIRELESS KEYBOARD,TECHNOLOGY, Accessories ,WEST,nevada,3,74.03,0.08,204.22,$62.09, Standard Class ,Corporate
+ORD-010149,05/28/2024,CUST-7224,Premium Standing Desk,furniture, Tables ,SOUTH, North Carolina ,5,429.65,0.2,1725.08,-136.47,Second Class,CONSUMER
+ORD-010150,2024-05-20,CUST-9892, Compact Printer ,technology, Printers ,East,massachusetts,2,130.2,0.08,240.02,-4.14, Standard Class ,CORPORATE
+ORD-010151,2024-05-31,CUST-3586,ergonomic office chair,Furniture,Chairs, Central , Colorado ,6,200.1,0.07,"$1,113.52",$64.24,standard class,Consumer
+ORD-010152,05/05/2024,CUST-2396,smart led monitor,technology, Monitors ,west,Washington,4,246.28,0.04,950.37,220.29, Standard Class ,corporate
+ORD-010153,2024-05-30,CUST-9913, Wireless Keyboard ,TECHNOLOGY, Accessories ,West,Washington,1,$77.56,0.12,$68.26,18.8,SECOND CLASS,Consumer
+ORD-010154,28-May-2024,CUST-9504,Wireless Keyboard,technology,accessories,East, Pennsylvania ,4,74.04,0.17,246.48,55.75, Standard Class ,home office
+ORD-010155,11-May-2024,CUST-8848,Ergonomic Office Chair,FURNITURE,CHAIRS,East,pennsylvania,4,199.09,0.17,661.06,$-38.04,STANDARD CLASS,CONSUMER
+ORD-010156,2024-05-04,CUST-8598,smart led monitor,TECHNOLOGY,Monitors,south,FLORIDA,3,238.61,0.18,587.56,54.15,SECOND CLASS,Corporate
+ORD-010157,13-May-2024,CUST-7715,wireless keyboard, Technology ,accessories,CENTRAL, Illinois ,4,74.58,0.07,277.84,88.62,Standard Class,CORPORATE
+ORD-010158,27-May-2024,CUST-7759, Wireless Keyboard , Technology ,Accessories,West, Washington ,2,71.39,0.07,$133.29,41.65, Standard Class ,CONSUMER
+ORD-010159,29-May-2024,CUST-2714,DESK ORGANIZER SET,office supplies,storage,SOUTH, Tennessee ,4,33.3,0.09,$121.69,44.16,SAME DAY,CORPORATE
+ORD-010160,05/24/2024,CUST-2702,WIRELESS KEYBOARD,technology, Accessories , Central ,ILLINOIS,1,72.09,0.06,67.51,$21.67,Second Class,corporate
+ORD-010161,2024-05-06,CUST-4419,WIRELESS KEYBOARD, Technology ,ACCESSORIES,south,north carolina,4,78.66,0.12,277.38,73.73,second class,HOME OFFICE
+ORD-010162,06-May-2024,CUST-1951,Ergonomic Office Chair,furniture,Chairs, West , Nevada ,2,194.41,0.18,317.38,$-24.08,standard class, Consumer 
+ORD-010163,05/02/2024,CUST-2905,, Technology ,ACCESSORIES,east,Massachusetts,1,66.19,0.1,59.87,12.48,Second Class,CORPORATE
+ORD-010164,05/28/2024,CUST-3286,Smart LED Monitor,TECHNOLOGY,Monitors,south, Georgia ,6,$229.82,0.14,1191.9,163.07, Standard Class ,Consumer
+ORD-010165,20-May-2024,CUST-8460,premium standing desk,FURNITURE,TABLES,CENTRAL,MINNESOTA,4,441.22,0.08,"$1,616.87",94.47,FIRST CLASS, Home Office 
+ORD-010166,01-May-2024,CUST-3248,Desk Organizer Set,OFFICE SUPPLIES, Storage ,east,Massachusetts,2,$34.15,0.09,62.42,23.84, Standard Class ,CONSUMER
+ORD-010167,2024-05-30,CUST-5173, Wireless Keyboard ,Technology, Accessories ,CENTRAL,COLORADO,4,77.65,0.05,294.8,98.36,STANDARD CLASS,consumer
+ORD-010168,05/21/2024,CUST-4330,SMART LED MONITOR,Technology,MONITORS,west,WASHINGTON,4,230.13,0.11,$820.96,137.37,first class,Home Office
+ORD-010169,05/27/2024,CUST-1784,premium notebook bundle, Office Supplies , Paper ,WEST, Oregon ,1,17.73,0.07,$16.53,7.06,STANDARD CLASS, Consumer 
+ORD-010170,05/30/2024,CUST-1284,Smart LED Monitor,Technology,monitors,EAST, New Jersey ,6,226.06,0.11,1201.39,191.79,Standard Class, Corporate 
+ORD-010171,09-May-2024,CUST-9118,wireless keyboard, Technology , Accessories , South ,tennessee,1,76.49,0.08,70.63,21.01,First Class,HOME OFFICE
+ORD-010172,26-May-2024,CUST-2663,ergonomic office chair,Furniture,chairs,EAST,Massachusetts,4,210.73,0.15,714.46,-21.88, Second Class , Corporate 
+ORD-010173,06/01/2024,CUST-2595,premium notebook bundle,Office Supplies, Paper ,east,NEW JERSEY,5,18.22,0.14,78.42,28.56,first class,HOME OFFICE
+ORD-010174,06/12/2024,CUST-9055,SMART LED MONITOR,Technology,MONITORS,WEST,washington,7,239.8,0.09,1532.28,287.29,standard class,corporate
+ORD-010175,06/15/2024,CUST-8682,compact printer,Technology,Printers,EAST,PENNSYLVANIA,1,148.22,0.07,137.39,-0.53,standard class,Corporate
+ORD-010176,12-Jun-2024,CUST-8376,WIRELESS KEYBOARD,Technology, Accessories ,south, Georgia ,2,77.38,0.15,131.51,31.21, First Class ,CONSUMER
+ORD-010177,2024-06-27,CUST-3225,modular bookshelf,Furniture, Storage ,East,New Jersey,3,165.53,0.19,403.52,-56.08, Second Class ,home office
+ORD-010178,25-Jun-2024,CUST-8061,wireless keyboard,Technology,Accessories,east,NEW YORK,5,$71.93,0.06,336.37,104.18, Standard Class ,Corporate
+ORD-010179,06/03/2024,CUST-5801,Ergonomic Office Chair,Furniture, Chairs , East ,pennsylvania,4,211.46,0.14,725.07,-13.61, Standard Class ,home office
+ORD-010180,06/26/2024,CUST-7285,SMART LED MONITOR,TECHNOLOGY,MONITORS,WEST,california,5,228.42,0.04,"$1,091.99",243.67,FIRST CLASS,Home Office
+ORD-010181,2024-06-21,CUST-8985,Cordless Phone Dock,Technology,Accessories, East ,NEW YORK,1,58.45,0.11,51.78,9.51,standard class,CORPORATE
+ORD-010182,23-Jun-2024,CUST-6204, Smart LED Monitor ,technology,monitors,WEST, California ,2,$213.11,0.13,372.88,55.6, Second Class , Corporate 
+ORD-010183,11-Jun-2024,CUST-5059,WIRELESS KEYBOARD,TECHNOLOGY,Accessories,central,Minnesota,2,73.3,0.04,141.19,48.09, Standard Class ,Consumer
+ORD-010184,2024-06-02,CUST-4911,Smart LED Monitor, Technology , Monitors ,south,FLORIDA,5,$214.17,0.14,924.97,123.96,STANDARD CLASS, Corporate 
+ORD-010185,2024-06-25,CUST-8436, Wireless Keyboard ,TECHNOLOGY,accessories,WEST, Oregon ,5,79.19,0.02,389.5,$137.40,STANDARD CLASS,Consumer
+ORD-010186,2024-06-27,CUST-7469,ergonomic office chair,FURNITURE,chairs,east,new jersey,4,202.99,0.11,725.19,13.62,standard class, Corporate 
+ORD-010187,06/21/2024,CUST-4733,compact printer, Technology ,Printers, East ,new york,4,142.12,0.08,523.01,$-7.23, Standard Class ,CONSUMER
+ORD-010188,2024-06-04,CUST-5833,Wireless Keyboard,Technology,Accessories,West,Washington,2,72.12,0.06,135.58,43.08,standard class,Corporate
+ORD-010189,06/04/2024,CUST-9879,SMART LED MONITOR,Technology,monitors, South ,georgia,3,245.87,0.15,629.98,80.89,Second Class,corporate
+ORD-010190,2024-06-18,CUST-6513,SMART LED MONITOR, Technology ,Monitors,SOUTH,TENNESSEE,4,239.04,0.14,818.35,$105.92, Same Day ,Corporate
+ORD-010191,2024-06-27,CUST-2523,PREMIUM NOTEBOOK BUNDLE,office supplies,PAPER,west,WASHINGTON,4,17.96,0.13,62.84,24.59,SECOND CLASS,Consumer
+ORD-010192,2024-06-22,CUST-2401, Wireless Keyboard , Technology ,Accessories,South, Tennessee ,4,$71.99,0.09,263.36,75.46,Standard Class,consumer
+ORD-010193,2024-06-06,CUST-2767,desk organizer set,OFFICE SUPPLIES,Storage,SOUTH,North Carolina,5,34.7,0.15,147.35,47.08,FIRST CLASS, Corporate 
+ORD-010194,2024-06-17,CUST-5221,Smart LED Monitor,TECHNOLOGY,monitors,Central,illinois,4,223.87,0.1,807.44,143.51, Second Class ,CONSUMER
+ORD-010195,19-Jun-2024,CUST-3171,modular bookshelf,Furniture, Storage ,west, North Carolina ,1,182.15,0.19,147.08,-20.74,Second Class,Consumer
+ORD-010196,06/15/2024,CUST-8462,WIRELESS KEYBOARD,TECHNOLOGY,accessories,Central,texas,1,$71.79,0.06,67.55,21.89,SAME DAY,CONSUMER
+ORD-010197,14-Jun-2024,CUST-7923, Smart LED Monitor ,Technology,Monitors,SOUTH,florida,2,231.08,0.15,394.97,50.22,STANDARD CLASS,corporate
+ORD-010198,06/01/2024,CUST-4401,Wireless Keyboard,technology,accessories,east,Pennsylvania,1,79.77,0.11,71.28,20.22, Standard Class ,Corporate
+ORD-010199,2024-06-28,CUST-5148,premium standing desk,FURNITURE,TABLES, Central , Minnesota ,2,454.71,0.1,$814.69,31.36,First Class,Home Office
+ORD-010200,19-Jun-2024,CUST-4976,Compact Printer,Technology,Printers, East ,new jersey,3,147.82,0.11,395.84,-16.9,standard class,Corporate
+ORD-010201,06/29/2024,CUST-4037,Wireless Keyboard,TECHNOLOGY,Accessories,WEST, Oregon ,3,79.82,0.1,$214.54,62.16,first class,home office
+ORD-010202,2024-06-07,CUST-9243,Desk Organizer Set, Office Supplies ,storage, East ,New Jersey,5,$35.44,0.07,$165.15,65.6,first class,HOME OFFICE
+ORD-010203,06/09/2024,CUST-7393,PREMIUM STANDING DESK,furniture,Tables,South, Georgia ,2,453.9,0.15,771.12,-13.28,SECOND CLASS,CONSUMER
+ORD-010204,2024-06-30,CUST-8221,wireless keyboard, Technology ,accessories,Central,Illinois,1,74.59,0.05,70.66,$23.35,STANDARD CLASS,CONSUMER
+ORD-010205,09-Jun-2024,CUST-6062,Cordless Phone Dock,Technology, Accessories ,East,new york,5,65.17,0.08,$300.91,67.36,First Class,Home Office
+ORD-010206,2024-06-09,CUST-3706,premium notebook bundle, Office Supplies ,Paper,central,Illinois,4,18.91,0.09,$69.07,$30.85, Standard Class , Corporate 
+ORD-010207,2024-06-05,CUST-2696,ERGONOMIC OFFICE CHAIR,Furniture, Chairs ,SOUTH,florida,7,208.86,0.21,1149.23,-132.36, Second Class ,consumer
+ORD-010208,19-Jun-2024,CUST-8433,Smart LED Monitor,Technology,Monitors, South ,North Carolina,5,229.41,0.15,977.83,$121.95,STANDARD CLASS,corporate
+ORD-010209,06/21/2024,CUST-2388,PREMIUM STANDING DESK, Furniture ,TABLES, West ,california,4,452.33,0.12,1589.18,28.73, Second Class , Consumer 
+ORD-010210,06-Jun-2024,CUST-7061,Smart LED Monitor, Technology ,MONITORS,west,washington,2,$240.59,0.04,461.64,104.78, First Class ,corporate
+ORD-010211,30-Jun-2024,CUST-4114,desk organizer set,Office Supplies,storage,South,Georgia,4,34.37,0.15,$117.07,$37.49,Standard Class,Corporate
+ORD-010212,28-Jul-2024,CUST-6005,ergonomic office chair,furniture,chairs, East ,MASSACHUSETTS,3,194.07,0.1,524.37,12.11, Standard Class ,consumer
+ORD-010213,2024-07-25,CUST-1713,Wireless Keyboard,TECHNOLOGY,accessories,West,Washington,2,71.89,0.03,139.82,47.59,second class, Consumer 
+ORD-010214,07/30/2024,CUST-8377,Cordless Phone Dock,technology,accessories,WEST,Nevada,5,$65.45,0.03,316.0,$83.00,second class,Corporate
+ORD-010215,2024-07-02,CUST-6580,SMART LED MONITOR,TECHNOLOGY,MONITORS,WEST,washington,6,235.45,0.08,1302.73,254.38, Standard Class ,consumer
+ORD-010216,27-Jul-2024,CUST-9298,Wireless Keyboard,Technology,Accessories,west,CALIFORNIA,5,$73.81,0.05,351.36,115.11,SECOND CLASS,CONSUMER
+ORD-010217,2024-07-04,CUST-9752,compact printer, Technology ,PRINTERS,East, Pennsylvania ,1,145.19,0.06,136.52,1.26,Standard Class, Consumer 
+ORD-010218,2024-07-03,CUST-4004,WIRELESS KEYBOARD,TECHNOLOGY, Accessories , West ,california,5,75.01,0.07,349.92,110.13,standard class,Consumer
+ORD-010219,07/25/2024,CUST-2044, Smart LED Monitor ,Technology,Monitors,east,Pennsylvania,6,226.01,0.14,1169.13,159.76,standard class,CONSUMER
+ORD-010220,07/11/2024,CUST-7245,compact printer,TECHNOLOGY,printers,East,massachusetts,1,131.44,0.14,$113.66,-9.51,standard class,Consumer
+ORD-010221,2024-07-01,CUST-8795,wireless keyboard, Technology ,ACCESSORIES,EAST,NEW YORK,4,80.1,0.12,282.2,77.16,Same Day,CONSUMER
+ORD-010222,08-Jul-2024,CUST-7566,Premium Standing Desk,Furniture,TABLES,west,WASHINGTON,4,$446.10,0.14,1534.19,-5.8,same day, Consumer 
+ORD-010223,2024-07-23,CUST-5859,PREMIUM NOTEBOOK BUNDLE,OFFICE SUPPLIES,Paper,south,georgia,3,17.98,0.14,46.34,15.23,SECOND CLASS,Consumer
+ORD-010224,2024-07-11,CUST-8850, Premium Notebook Bundle ,OFFICE SUPPLIES, Paper ,south, Georgia ,2,18.18,0.13,31.57,10.66,second class,Consumer
+ORD-010225,2024-07-10,CUST-1363, Smart LED Monitor ,technology,Monitors,west,Minnesota,3,208.31,0.07,582.4,118.06,standard class, Consumer 
+ORD-010226,2024-07-01,CUST-9119,Modular Bookshelf,Furniture,Storage, Central ,minnesota,4,173.23,0.08,$638.37,2.2,first class,HOME OFFICE
+ORD-010227,10-Jul-2024,CUST-5970,desk organizer set,office supplies,storage,CENTRAL,MINNESOTA,2,31.65,0.02,61.88,27.1,standard class,consumer
+ORD-010228,2024-07-26,CUST-7714, Wireless Keyboard ,Technology,ACCESSORIES,central,colorado,1,$76.10,0.03,74.1,25.9,FIRST CLASS,corporate
+ORD-010229,07/24/2024,CUST-1005,DESK ORGANIZER SET,OFFICE SUPPLIES, Storage ,CENTRAL,Illinois,4,35.28,0.06,132.1,55.55,STANDARD CLASS,corporate
+ORD-010230,31-Jul-2024,CUST-2549,Cordless Phone Dock,TECHNOLOGY, Accessories , Central ,TEXAS,1,65.1,0.12,$57.35,11.38,FIRST CLASS, Corporate 
+ORD-010231,2024-07-16,CUST-1032,Ergonomic Office Chair,FURNITURE,CHAIRS,west, Oregon ,5,206.79,0.1,935.46,$32.30,Standard Class,consumer
+ORD-010232,07/21/2024,CUST-2451,Ink Cartridge Pack,Office Supplies, Supplies ,central, Colorado ,5,55.9,0.01,276.53,72.48,standard class,home office
+ORD-010233,17-Jul-2024,CUST-8993,Desk Organizer Set,office supplies, Storage ,east, Massachusetts ,5,33.7,0.02,165.93,70.55,Standard Class,home office
+ORD-010234,07/19/2024,CUST-7555,DESK ORGANIZER SET,Office Supplies,Storage,West, California ,2,33.62,0.04,64.77,27.3,first class, Consumer 
+ORD-010235,14-Jul-2024,CUST-5226,Desk Organizer Set,office supplies,Storage,east, New York ,3,34.61,0.08,95.14,36.6,Standard Class,corporate
+ORD-010236,07/07/2024,CUST-2790,ergonomic office chair,Furniture,chairs,WEST,california,5,199.32,0.08,912.35,39.07,standard class,CONSUMER
+ORD-010237,2024-07-08,CUST-4624,ERGONOMIC OFFICE CHAIR,furniture,CHAIRS, West , Oregon ,5,206.46,0.06,967.02,65.17,Standard Class,Home Office
+ORD-010238,18-Jul-2024,CUST-5540,LED DESK LAMP,FURNITURE,lighting,CENTRAL,Minnesota,3,45.73,0.07,$127.02,$27.83,STANDARD CLASS, Corporate 
+ORD-010239,27-Jul-2024,CUST-3858, Ergonomic Office Chair ,Furniture,CHAIRS,East, Pennsylvania ,3,189.52,0.16,$480.38,-20.98,standard class, Consumer 
+ORD-010240,2024-07-08,CUST-6181, Ink Cartridge Pack ,office supplies, Supplies ,CENTRAL,MINNESOTA,2,63.85,0.08,117.15,24.72,standard class,consumer
+ORD-010241,2024-07-02,CUST-2660, Wireless Keyboard ,Technology,ACCESSORIES,west,washington,5,72.73,0.17,302.85,$69.78, Standard Class ,Corporate
+ORD-010242,2024-07-19,CUST-7708, Smart LED Monitor ,Technology,Monitors,central,COLORADO,4,221.99,0.09,$805.75,$147.22,STANDARD CLASS,consumer
+ORD-010243,30-Jul-2024,CUST-9079, Modular Bookshelf ,furniture,STORAGE,east, New Jersey ,4,168.57,0.17,561.79,-61.34,FIRST CLASS,HOME OFFICE
+ORD-010244,2024-07-19,CUST-5897, Premium Notebook Bundle ,Office Supplies, Paper ,east,MASSACHUSETTS,5,17.03,0.1,$76.78,29.37,Second Class,corporate
+ORD-010245,01-Jul-2024,CUST-2005,MODULAR BOOKSHELF,Furniture,storage, South , Tennessee ,3,173.21,0.21,413.03,$-67.67,STANDARD CLASS,CONSUMER
+ORD-010246,2024-07-09,CUST-2360, Wireless Keyboard ,technology,accessories,south,North Carolina,3,74.41,0.09,$203.28,58.09, Same Day ,CONSUMER
+ORD-010247,07/30/2024,CUST-5421,ergonomic office chair,FURNITURE,CHAIRS,Central, Texas ,5,201.13,0.06,$942.06,63.53, First Class ,corporate
+ORD-010248,07/29/2024,CUST-7177,premium standing desk,Furniture,Tables, East ,New Jersey,6,448.09,0.09,2454.49,132.87,second class, Consumer 
+ORD-010249,07/07/2024,CUST-6994, Ergonomic Office Chair ,FURNITURE,CHAIRS, West ,california,1,205.12,0.08,$188.74,9.44, Standard Class ,Consumer
+ORD-010250,25-Jul-2024,CUST-1962,ERGONOMIC OFFICE CHAIR,FURNITURE,Chairs,EAST,NEW YORK,6,204.58,0.1,1099.53,24.53, First Class , Corporate 
+ORD-010251,2024-07-09,CUST-9870,Compact Printer, Technology , Printers ,east,pennsylvania,4,129.73,0.09,473.7,-12.96,Standard Class,CORPORATE
+ORD-010252,2024-07-03,CUST-9439,cordless phone dock, Technology ,accessories,east,PENNSYLVANIA,4,61.28,0.11,217.21,40.63,STANDARD CLASS,CONSUMER
+ORD-010253,2024-07-21,CUST-3316,Smart LED Monitor,TECHNOLOGY,MONITORS,east,New Jersey,3,220.42,0.14,$569.90,$77.29,standard class,CORPORATE
+ORD-010254,17-Aug-2024,CUST-3558, Smart LED Monitor ,Technology,Monitors,SOUTH, Tennessee ,1,243.19,0.13,210.77,29.67,SECOND CLASS,Consumer
+ORD-010255,2024-08-24,CUST-5910,Compact Printer,technology,Printers,EAST, Massachusetts ,3,124.4,0.13,323.05,-27.88,STANDARD CLASS,CONSUMER
+ORD-010256,08/01/2024,CUST-5963,desk organizer set,Office Supplies,storage,south,NORTH CAROLINA,3,33.59,0.19,81.16,22.59,first class,Consumer
+ORD-010257,08/08/2024,CUST-1856, Premium Notebook Bundle ,OFFICE SUPPLIES,PAPER, East ,PENNSYLVANIA,5,19.03,0.06,$89.17,37.66,First Class,consumer
+ORD-010258,03-Aug-2024,CUST-2600,Ergonomic Office Chair, Furniture ,chairs,Central,TEXAS,5,203.71,0.07,945.58,56.76,Standard Class,corporate
+ORD-010259,2024-08-03,CUST-4563,cordless phone dock,technology,ACCESSORIES,Central,Minnesota,1,63.12,0.01,62.49,$17.83,SAME DAY,consumer
+ORD-010260,08/31/2024,CUST-6631,Smart LED Monitor, Technology ,Monitors,EAST,Pennsylvania,1,231.71,0.05,219.1,$46.77,STANDARD CLASS,consumer
+ORD-010261,08/05/2024,CUST-8931, Compact Printer ,TECHNOLOGY,printers,WEST,California,2,142.49,0.04,272.72,$7.54,SAME DAY,Home Office
+ORD-010262,30-Aug-2024,CUST-6100,Wireless Keyboard,Technology,accessories, East ,New York,1,$69.57,0.06,65.15,20.1, Standard Class ,Corporate
+ORD-010263,08/26/2024,CUST-9053,Ink Cartridge Pack, Office Supplies ,Supplies,west,washington,3,59.03,0.09,160.57,30.55,standard class,CORPORATE
+ORD-010264,08/24/2024,CUST-1557,compact printer,TECHNOLOGY,printers, East , Massachusetts ,5,147.23,0.1,660.79,-24.53,SECOND CLASS, Consumer 
+ORD-010265,2024-08-09,CUST-7020,Smart LED Monitor,TECHNOLOGY,monitors,south,TENNESSEE,4,229.24,0.14,792.49,108.29, Second Class ,Home Office
+ORD-010266,08/22/2024,CUST-3531,DESK ORGANIZER SET,OFFICE SUPPLIES, Storage , South , Georgia ,4,32.59,0.12,114.94,38.76,Standard Class, Corporate 
+ORD-010267,08/29/2024,CUST-3642,SMART LED MONITOR,Technology,monitors,east,NEW YORK,4,221.62,0.05,840.26,180.0,Standard Class,Consumer
+ORD-010268,2024-08-26,CUST-6595,premium standing desk,FURNITURE,TABLES, West ,oregon,5,453.55,0.07,2117.76,162.22,standard class,corporate
+ORD-010269,2024-08-10,CUST-6487,SMART LED MONITOR,technology, Monitors ,central,minnesota,3,227.96,0.08,631.93,125.13,FIRST CLASS,corporate
+ORD-010270,2024-08-19,CUST-6041, Cordless Phone Dock ,TECHNOLOGY, Accessories ,SOUTH,NORTH CAROLINA,5,62.77,0.16,264.61,36.47,Standard Class,CONSUMER
+ORD-010271,2024-08-22,CUST-4446,SMART LED MONITOR,technology,monitors,east,New York,7,227.49,0.09,1441.49,256.46,Second Class, Consumer 
+ORD-010272,15-Aug-2024,CUST-5057,Wireless Keyboard,Technology,ACCESSORIES,EAST,NEW YORK,3,73.71,0.12,194.46,51.99,first class,Consumer
+ORD-010273,07-Aug-2024,CUST-7427, Smart LED Monitor ,Technology,MONITORS,east,NEW YORK,3,217.86,0.15,555.84,68.76,Same Day,CONSUMER
+ORD-010274,29-Aug-2024,CUST-5438,Smart LED Monitor,Technology,monitors,CENTRAL, Texas ,4,249.85,0.1,903.06,164.28,STANDARD CLASS, Consumer 
+ORD-010275,2024-08-04,CUST-7714, Ink Cartridge Pack , Office Supplies ,Supplies,West,CALIFORNIA,5,60.83,0.06,286.61,63.78,Standard Class,Corporate
+ORD-010276,2024-08-18,CUST-7160,wireless keyboard,Technology,accessories,West,WASHINGTON,3,$72.09,0.05,204.52,65.82,standard class,HOME OFFICE
+ORD-010277,15-Aug-2024,CUST-6021,Premium Standing Desk,furniture,tables, Central , Colorado ,3,438.06,0.06,1231.19,97.16, First Class , Consumer 
+ORD-010278,2024-08-10,CUST-3469,wireless keyboard,technology,Accessories,East,Massachusetts,4,68.87,0.1,249.05,$70.52, Standard Class ,Corporate
+ORD-010279,2024-08-14,CUST-7358,WIRELESS KEYBOARD,technology,accessories,south, Tennessee ,2,73.33,0.1,131.57,36.04,first class,corporate
+ORD-010280,30-Aug-2024,CUST-9706,Desk Organizer Set, Office Supplies ,storage,South,FLORIDA,2,$34.46,0.15,58.28,$18.40, Standard Class , Corporate 
+ORD-010281,08/03/2024,CUST-4626,Premium Standing Desk,furniture,Tables,SOUTH, Tennessee ,4,430.98,0.2,1378.84,-114.77,SECOND CLASS,Corporate
+ORD-010282,24-Aug-2024,CUST-8914, Ergonomic Office Chair ,Furniture,chairs, West , Nevada ,2,$207.93,0.14,357.2,-5.89, Second Class , Corporate 
+ORD-010283,2024-08-22,CUST-3898,Premium Notebook Bundle,Office Supplies,PAPER,east, Massachusetts ,5,20.36,0.11,$90.68,36.46,standard class,Corporate
+ORD-010284,08/25/2024,CUST-1160,Wireless Keyboard,TECHNOLOGY,ACCESSORIES,South,North Carolina,1,74.67,0.16,62.93,14.38,first class, Consumer 
+ORD-010285,2024-08-19,CUST-8727, Wireless Keyboard ,TECHNOLOGY,accessories,SOUTH,north carolina,1,73.21,0.2,58.47,10.78, First Class ,CORPORATE
+ORD-010286,2024-08-14,CUST-8914,LED Desk Lamp,furniture,LIGHTING,South,North Carolina,1,46.71,0.21,$36.88,1.99,STANDARD CLASS,Consumer
+ORD-010287,08/07/2024,CUST-5519,ink cartridge pack,OFFICE SUPPLIES,Supplies, West ,NEVADA,3,56.74,0.06,160.55,35.21,first class,HOME OFFICE
+ORD-010288,2024-08-11,CUST-8008,COMPACT PRINTER,TECHNOLOGY,Printers,EAST,massachusetts,3,139.42,0.14,357.67,-32.89,first class,corporate
+ORD-010289,2024-08-08,CUST-9594,PREMIUM NOTEBOOK BUNDLE, Office Supplies ,Paper,west,Washington,2,16.29,0.08,29.91,12.16,STANDARD CLASS,CORPORATE
+ORD-010290,06-Aug-2024,CUST-9116, Premium Standing Desk , Furniture ,Tables,central,TEXAS,3,432.24,0.1,1161.76,42.05,STANDARD CLASS,consumer
+ORD-010291,2024-08-18,CUST-5448,ergonomic office chair,furniture,CHAIRS,WEST,Washington,2,197.01,0.11,350.28,4.66, Standard Class ,CONSUMER
+ORD-010292,2024-09-02,CUST-9723,ERGONOMIC OFFICE CHAIR,Furniture, Chairs ,West,OREGON,3,205.72,0.08,565.48,26.16,Standard Class,Consumer
+ORD-010293,09/12/2024,CUST-4813, Ergonomic Office Chair ,furniture,chairs, Central ,MINNESOTA,1,194.3,0.05,185.45,15.2,STANDARD CLASS,home office
+ORD-010294,27-Sep-2024,CUST-1054,desk organizer set,Office Supplies,storage, West ,nevada,2,33.61,0.06,63.42,25.95,same day,Consumer
+ORD-010295,09/24/2024,CUST-2116,wireless keyboard, Technology ,ACCESSORIES, Central ,MINNESOTA,3,72.62,0.07,$202.98,$64.54,Standard Class,corporate
+ORD-010296,09/08/2024,CUST-7599,Ergonomic Office Chair,FURNITURE,Chairs,EAST, Massachusetts ,6,201.48,0.17,999.42,-60.67,FIRST CLASS,HOME OFFICE
+ORD-010297,2024-09-16,CUST-4294, Compact Printer ,Technology,Printers,East,pennsylvania,3,141.94,0.04,407.91,10.69, First Class ,CONSUMER
+ORD-010298,2024-09-08,CUST-2388,PREMIUM STANDING DESK, Furniture , Tables ,CENTRAL,MINNESOTA,3,$456.62,0.06,1284.54,104.86, Second Class ,Consumer
+ORD-010299,09/20/2024,CUST-3730,Ergonomic Office Chair, Furniture , Chairs ,South,FLORIDA,2,207.65,0.18,341.32,-22.92,second class, Corporate 
+ORD-010300,09/21/2024,CUST-7920,Wireless Keyboard,TECHNOLOGY,accessories, West ,California,4,72.47,0.09,264.08,78.25,SAME DAY, Corporate 
+ORD-010301,2024-09-28,CUST-4047, Premium Standing Desk ,FURNITURE, Tables ,west,OREGON,3,435.79,0.08,1204.91,75.26, Standard Class ,Corporate
+ORD-010302,09/10/2024,CUST-2224,smart led monitor,TECHNOLOGY,MONITORS,,FLORIDA,6,220.6,0.11,1171.76,182.77,STANDARD CLASS, Consumer 
+ORD-010303,2024-09-06,CUST-6611,smart led monitor,TECHNOLOGY,monitors,CENTRAL,MINNESOTA,4,$231.92,0.03,897.02,209.9,Standard Class,Consumer
+ORD-010304,2024-09-15,CUST-2935, Premium Standing Desk ,furniture, Tables ,west,California,1,454.4,0.08,$418.96,$27.15, Same Day ,HOME OFFICE
+ORD-010305,09/04/2024,CUST-5092,Premium Notebook Bundle,Office Supplies,paper,SOUTH,Georgia,1,17.51,0.17,14.45,4.27,second class,HOME OFFICE
+ORD-010306,2024-09-21,CUST-7326,Smart LED Monitor, Technology , Monitors ,EAST, Pennsylvania ,5,$233.59,0.09,1060.46,192.03, Standard Class , Consumer 
+ORD-010307,26-Sep-2024,CUST-8689,ergonomic office chair,furniture,chairs,EAST,pennsylvania,4,191.85,0.14,657.91,-18.02,standard class,corporate
+ORD-010308,09/12/2024,CUST-2506,Wireless Keyboard,technology,accessories, East ,new jersey,5,76.51,0.09,346.71,101.0,Standard Class,Consumer
+ORD-010309,09/06/2024,CUST-7956,Ergonomic Office Chair, Furniture ,chairs,CENTRAL, Illinois ,2,203.44,0.1,366.96,11.86,Standard Class,corporate
+ORD-010310,23-Sep-2024,CUST-3630,INK CARTRIDGE PACK,OFFICE SUPPLIES,Supplies,East,Massachusetts,2,65.45,0.05,123.71,$27.70,Standard Class,Consumer
+ORD-010311,09/08/2024,CUST-8331, Wireless Keyboard ,Technology,ACCESSORIES,central,texas,5,70.51,0.04,$338.95,114.44,standard class,CORPORATE
+ORD-010312,09/17/2024,CUST-5935,WIRELESS KEYBOARD,Technology,ACCESSORIES,south,tennessee,3,$74.50,0.12,195.97,$50.60, Second Class ,Consumer
+ORD-010313,09/20/2024,CUST-9701, Ergonomic Office Chair , Furniture ,Chairs,west,NEVADA,4,$219.06,0.09,801.18,39.37,FIRST CLASS, Corporate 
+ORD-010314,09/14/2024,CUST-6099,ergonomic office chair,Furniture,Chairs,south,Florida,3,191.52,0.21,455.08,-52.57,First Class,corporate
+ORD-010315,09/26/2024,CUST-1259,Compact Printer,Technology,Printers,EAST,PENNSYLVANIA,3,134.87,0.11,360.39,-18.17,same day,consumer
+ORD-010316,09/30/2024,CUST-2663,COMPACT PRINTER,Technology,printers,Central,MINNESOTA,3,134.51,0.06,380.22,4.7, First Class ,Home Office
+ORD-010317,2024-09-27,CUST-3712,SMART LED MONITOR,Technology,Monitors,WEST,nevada,1,231.26,0.07,215.65,43.94,Standard Class,Consumer
+ORD-010318,2024-09-19,CUST-2113, Smart LED Monitor ,technology,monitors, West , Nevada ,3,228.56,0.11,$611.32,102.02,standard class,Corporate
+ORD-010319,09/08/2024,CUST-8138,Wireless Keyboard,TECHNOLOGY,ACCESSORIES,central,texas,3,79.28,0.02,$233.10,82.87, Standard Class ,CORPORATE
+ORD-010320,04-Sep-2024,CUST-3524,ergonomic office chair,furniture,CHAIRS,south,FLORIDA,7,200.59,0.24,1072.72,-162.59,SAME DAY,CONSUMER
+ORD-010321,09/09/2024,CUST-8914,DESK ORGANIZER SET,electronics,Storage,EAST,new jersey,4,$34.09,0.1,122.6,45.54,Second Class, Corporate 
+ORD-010322,09/04/2024,CUST-7554,ergonomic office chair,FURNITURE, Chairs ,SOUTH,tennessee,4,195.44,0.2,628.69,-60.71,standard class,CONSUMER
+ORD-010323,24-Sep-2024,CUST-7518, Ergonomic Office Chair ,FURNITURE,CHAIRS,South,tennessee,5,$198.68,0.18,815.21,-59.53, Standard Class , Consumer 
+ORD-010324,09/24/2024,CUST-3140, Desk Organizer Set , Office Supplies ,STORAGE,Central, Colorado ,3,35.75,0.05,101.73,43.65,Standard Class,CORPORATE
+ORD-010325,2024-09-11,CUST-6227,Smart LED Monitor,TECHNOLOGY,MONITORS,WEST,OREGON,2,$218.57,0.03,425.66,100.53, Standard Class ,CONSUMER
+ORD-010326,25-Sep-2024,CUST-2445,Ergonomic Office Chair,furniture,Chairs,east,MASSACHUSETTS,4,197.22,0.11,700.94,$7.83,STANDARD CLASS,consumer
+ORD-010327,11-Sep-2024,CUST-4178,PREMIUM NOTEBOOK BUNDLE,OFFICE SUPPLIES,paper,Central,ILLINOIS,3,17.25,0.02,$50.82,$24.20,STANDARD CLASS,CONSUMER
+ORD-010328,22-Sep-2024,CUST-7535, Desk Organizer Set ,Office Supplies,Storage,central, Texas ,5,35.6,0.05,168.41,71.96,SECOND CLASS,CONSUMER
+ORD-010329,10/20/2024,CUST-1229,Premium Notebook Bundle,Office Supplies, Paper , Central ,Minnesota,2,18.89,0.13,32.73,13.64,Standard Class,corporate
+ORD-010330,2024-10-06,CUST-2359, Premium Standing Desk ,FURNITURE,Tables, South , Tennessee ,7,$442.94,0.21,2436.9,-245.57, Standard Class ,consumer
+ORD-010331,10/22/2024,CUST-6026,Wireless Keyboard,TECHNOLOGY,Accessories, West ,oregon,5,$72.02,0.07,336.16,105.2, Second Class ,CONSUMER
+ORD-010332,10/10/2024,CUST-3009,ergonomic office chair,furniture,chairs,West,California,4,192.39,0.15,$654.49,-21.97,standard class,home office
+ORD-010333,24-Oct-2024,CUST-1157, Smart LED Monitor , Technology ,monitors,south,georgia,2,225.25,0.15,380.94,44.58, Standard Class ,CONSUMER
+ORD-010334,10/28/2024,CUST-8726,Premium Notebook Bundle, Office Supplies ,paper,SOUTH,FLORIDA,3,18.14,0.16,$45.69,14.37, First Class , Consumer 
+ORD-010335,2024-10-30,CUST-6038,cordless phone dock,Technology,accessories,west,CALIFORNIA,5,65.09,0.12,$287.16,55.35,Standard Class,Corporate
+ORD-010336,10/11/2024,CUST-5726,Ink Cartridge Pack,Office Supplies,Supplies, South ,Florida,2,56.0,0.17,93.26,9.1,FIRST CLASS,corporate
+ORD-010337,19-Oct-2024,CUST-2312,Ink Cartridge Pack, Office Supplies ,supplies,EAST,Pennsylvania,5,$52.81,0.08,$244.21,47.17,STANDARD CLASS,CORPORATE
+ORD-010338,10/27/2024,CUST-5511,wireless keyboard,technology,ACCESSORIES,East,New Jersey,5,74.02,0.06,347.63,109.29,SECOND CLASS, Corporate 
+ORD-010339,10/06/2024,CUST-4463,SMART LED MONITOR,Technology,Monitors,WEST,nevada,1,228.84,0.08,$210.28,40.32,Second Class,corporate
+ORD-010340,22-Oct-2024,CUST-4987,wireless keyboard,technology,ACCESSORIES, Central ,Minnesota,2,72.58,0.11,$128.81,$36.56,FIRST CLASS,home office
+ORD-010341,2024-10-24,CUST-2270, Premium Standing Desk , Furniture , Tables ,west,washington,5,472.43,0.13,2043.6,$10.63,standard class,consumer
+ORD-010342,2024-10-04,CUST-1040,smart led monitor,Technology,Monitors,West, Washington ,5,243.71,0.05,1158.51,255.15, Standard Class , Consumer 
+ORD-010343,2024-10-04,CUST-3753, Compact Printer ,technology, Printers ,west, Oregon ,2,143.47,0.1,258.1,$-8.80,STANDARD CLASS,CONSUMER
+ORD-010344,10/09/2024,CUST-4805, Wireless Keyboard ,technology,ACCESSORIES,West, Nevada ,2,74.04,0.05,$141.08,46.32,FIRST CLASS, Corporate 
+ORD-010345,15-Oct-2024,CUST-8668, Smart LED Monitor ,technology,monitors, East , Pennsylvania ,7,243.52,0.1,1527.46,$261.61,FIRST CLASS,HOME OFFICE
+ORD-010346,2024-10-25,CUST-8708,cordless phone dock,TECHNOLOGY,ACCESSORIES,EAST,new jersey,5,62.09,0.1,279.99,56.59, First Class , Corporate 
+ORD-010347,10/23/2024,CUST-5756,compact printer,Technology,Printers,south,NORTH CAROLINA,2,150.76,0.14,258.29,-23.05, Second Class ,corporate
+ORD-010348,2024-10-20,CUST-4661, Ergonomic Office Chair ,furniture,chairs,West, Nevada ,2,199.85,0.07,$370.34,$20.19,STANDARD CLASS,HOME OFFICE
+ORD-010349,10/14/2024,CUST-2447,compact printer,technology,printers, South ,florida,4,137.69,0.09,499.99,-16.69,FIRST CLASS, Consumer 
+ORD-010350,22-Oct-2024,CUST-7869,Smart LED Monitor,technology, Monitors ,south, Georgia ,5,237.48,0.17,984.29,99.36,first class, Corporate 
+ORD-010351,2024-10-01,CUST-5332, Compact Printer ,technology, Printers ,East,massachusetts,2,137.67,0.08,253.84,-3.46,STANDARD CLASS,Home Office
+ORD-010352,2024-10-10,CUST-6276, File Cabinet ,Furniture,Storage, West ,OREGON,3,211.33,0.12,557.03,-65.15,Second Class, Consumer 
+ORD-010353,2024-10-29,CUST-4903,SMART LED MONITOR,technology,monitors,west,washington,3,228.04,0.05,$652.96,144.8,same day,consumer
+ORD-010354,2024-10-05,CUST-9079,ergonomic office chair,Furniture, Chairs ,WEST,california,2,186.85,0.18,306.76,-22.6,standard class,Corporate
+ORD-010355,24-Oct-2024,CUST-2193,CORDLESS PHONE DOCK, Technology , Accessories ,west, California ,2,69.86,0.08,128.04,29.03,Standard Class,home office
+ORD-010356,2024-10-15,CUST-1665,Compact Printer,technology, Printers ,East, Pennsylvania ,4,133.54,0.12,467.4,-32.65,Same Day, Consumer 
+ORD-010357,10/01/2024,CUST-5773,Ergonomic Office Chair,Furniture,Chairs,CENTRAL,colorado,3,$215.10,0.16,544.0,$-16.64,Standard Class,Home Office
+ORD-010358,10/26/2024,CUST-6692,MODULAR BOOKSHELF,Furniture,STORAGE, West , California ,2,170.36,0.12,$300.99,-13.01,Standard Class,Consumer
+ORD-010359,2024-10-01,CUST-9212, Wireless Keyboard , Technology , Accessories ,South,GEORGIA,4,76.57,0.15,260.39,61.68,standard class, Home Office 
+ORD-010360,2024-10-08,CUST-6716,ERGONOMIC OFFICE CHAIR,FURNITURE,Chairs,south,FLORIDA,2,204.97,0.24,310.59,$-49.37,standard class,consumer
+ORD-010361,2024-10-23,CUST-6586,Desk Organizer Set,office supplies,Storage,central,Texas,1,34.52,0.04,33.25,14.49,Standard Class,home office
+ORD-010362,06-Nov-2024,CUST-5668, Ergonomic Office Chair ,furniture,chairs, South ,tennessee,2,208.36,0.2,333.18,-32.2, Standard Class ,HOME OFFICE
+ORD-010363,18-Nov-2024,CUST-6594, LED Desk Lamp ,FURNITURE,Lighting,central, Illinois ,1,$46.97,0.15,40.16,$6.30,standard class,Home Office
+ORD-010364,11/10/2024,CUST-1910,premium notebook bundle,Office Supplies, Paper , East , Massachusetts ,3,18.07,0.07,$50.63,20.91,Same Day,CONSUMER
+ORD-010365,2024-11-01,CUST-3077, Smart LED Monitor ,TECHNOLOGY, Monitors ,west,NEVADA,5,235.67,0.03,1138.91,264.51,SAME DAY,CORPORATE
+ORD-010366,11/13/2024,CUST-6171,Cordless Phone Dock, Technology ,ACCESSORIES,Central,ILLINOIS,2,69.36,0.01,138.03,40.47,FIRST CLASS,corporate
+ORD-010367,11/13/2024,CUST-5957,wireless keyboard,technology,ACCESSORIES,WEST,Washington,5,75.4,0.06,353.16,112.22,standard class,CORPORATE
+ORD-010368,2024-11-19,CUST-6530, Premium Standing Desk ,Furniture, Tables ,EAST,new york,7,431.29,0.11,"$2,700.96",88.83,STANDARD CLASS,Corporate
+ORD-010369,2024-11-16,CUST-2630,PREMIUM STANDING DESK,Furniture,tables,East, Pennsylvania ,1,435.67,0.09,395.66,18.91, Second Class ,Consumer
+ORD-010370,11/04/2024,CUST-4312,compact printer, Technology ,Printers,west, Nevada ,3,139.42,0.07,$390.69,1.03,SECOND CLASS,consumer
+ORD-010371,07-Nov-2024,CUST-8489, Smart LED Monitor ,TECHNOLOGY,MONITORS, Central ,ILLINOIS,1,228.6,0.09,207.72,38.32,first class,CORPORATE
+ORD-010372,12-Nov-2024,CUST-4784, Wireless Keyboard ,Technology, Accessories ,South,FLORIDA,2,76.92,0.21,121.54,21.77,Standard Class,Corporate
+ORD-010373,11/23/2024,CUST-1483,wireless keyboard, Technology ,Accessories,South, Florida ,1,81.37,0.16,67.99,15.48,First Class, Home Office 
+ORD-010374,11/19/2024,CUST-1937,premium notebook bundle,Office Supplies,PAPER, West ,Nevada,4,$18.29,0.07,$68.26,29.46, Same Day ,corporate
+ORD-010375,2024-11-30,CUST-2368,smart led monitor,TECHNOLOGY, Monitors ,South,FLORIDA,7,230.56,0.15,"$1,368.12",164.09, First Class ,CONSUMER
+ORD-010376,26-Nov-2024,CUST-5559,Compact Printer,Technology,Printers, South , Florida ,2,137.8,0.11,246.42,$-12.10, First Class ,corporate
+ORD-010377,11/23/2024,CUST-7132,Desk Organizer Set,Office Supplies, Storage ,south,FLORIDA,1,34.26,0.23,26.42,6.58, Standard Class ,consumer
+ORD-010378,2024-11-26,CUST-4282,Compact Printer,TECHNOLOGY,PRINTERS,EAST,NEW JERSEY,4,138.95,0.13,$481.98,-37.13, Second Class , Consumer 
+ORD-010379,30-Nov-2024,CUST-7826, Wireless Keyboard ,Technology,ACCESSORIES,south,North Carolina,2,$74.13,0.09,134.29,37.81,FIRST CLASS,CONSUMER
+ORD-010380,21-Nov-2024,CUST-4051,INK CARTRIDGE PACK, Office Supplies ,SUPPLIES, Central , Colorado ,2,$61.36,0.07,114.14,25.08, Second Class ,Corporate
+ORD-010381,2024-11-13,CUST-5542,MODULAR BOOKSHELF,furniture, Storage ,central,TEXAS,3,$174.74,0.11,467.56,$-13.44,standard class,CONSUMER
+ORD-010382,2024-11-21,CUST-1867, Premium Standing Desk , Furniture , Tables ,EAST, Massachusetts ,5,488.53,0.15,2068.78,-31.7,second class,CORPORATE
+ORD-010383,27-Nov-2024,CUST-9952, Wireless Keyboard , Technology ,Accessories,East, Pennsylvania ,1,$76.57,0.07,71.05,21.87,standard class,CORPORATE
+ORD-010384,11/19/2024,CUST-3988,wireless keyboard, Technology ,accessories,WEST,Oregon,3,74.58,0.09,204.65,61.55,Second Class,CORPORATE
+ORD-010385,01-Nov-2024,CUST-2929,Smart LED Monitor,technology, Monitors ,WEST, California ,2,236.01,0.12,$415.52,65.26,standard class,Consumer
+ORD-010386,17-Nov-2024,CUST-3682,Premium Notebook Bundle,Office Supplies, Paper ,west,CALIFORNIA,5,$18.17,0.04,87.27,$39.02,STANDARD CLASS,Corporate
+ORD-010387,2024-11-18,CUST-6104,Desk Organizer Set,OFFICE SUPPLIES,STORAGE,EAST,pennsylvania,5,35.64,0.1,161.22,61.19, Standard Class , Home Office 
+ORD-010388,2024-11-25,CUST-5503, Premium Notebook Bundle ,OFFICE SUPPLIES, Paper ,EAST, Massachusetts ,3,$19.27,0.09,52.73,21.52, Second Class ,consumer
+ORD-010389,11/08/2024,CUST-6348, Premium Standing Desk ,Furniture,tables, West , California ,3,440.56,0.12,"$1,157.31",15.93,First Class,CORPORATE
+ORD-010390,14-Nov-2024,CUST-5913,Compact Printer,Technology,printers,EAST,pennsylvania,2,$136.70,0.13,$238.69,-16.91,standard class,Corporate
+ORD-010391,11/24/2024,CUST-1421,MODULAR BOOKSHELF,FURNITURE,storage, West ,Washington,1,161.5,0.09,146.78,-2.69, First Class , Consumer 
+ORD-010392,11/17/2024,CUST-1384,compact printer,technology,PRINTERS, East , New York ,1,$143.07,0.15,121.56,-11.84,second class,consumer
+ORD-010393,2024-11-18,CUST-2069,WIRELESS KEYBOARD,TECHNOLOGY,ACCESSORIES,East,NEW JERSEY,4,77.55,0.15,264.9,65.88,First Class,consumer
+ORD-010394,22-Nov-2024,CUST-2407,premium notebook bundle, Office Supplies ,PAPER,SOUTH,TENNESSEE,5,18.02,0.15,76.91,$24.98, Standard Class ,CONSUMER
+ORD-010395,2024-11-05,CUST-5103,premium notebook bundle,Office Supplies,paper,South, Tennessee ,4,18.65,0.21,58.99,16.41, Standard Class ,CONSUMER
+ORD-010396,11/25/2024,CUST-4914,ERGONOMIC OFFICE CHAIR,FURNITURE,chairs,East,NEW YORK,4,197.71,0.12,697.1,$2.43,standard class,Consumer
+ORD-010397,27-Nov-2024,CUST-3991, Smart LED Monitor , Technology ,monitors,central, Illinois ,5,233.14,0.07,"$1,078.48",215.18,Standard Class,Consumer
+ORD-010398,11/20/2024,CUST-1615,Smart LED Monitor,Technology,Monitors,West,CALIFORNIA,3,$228.82,0.07,$637.40,127.55,STANDARD CLASS,home office
+ORD-010399,02-Nov-2024,CUST-4370,premium standing desk,Furniture,Tables,EAST,New York,6,$506.62,0.17,2532.96,-76.61,SECOND CLASS,HOME OFFICE
+ORD-010400,11/30/2024,CUST-1763,PREMIUM NOTEBOOK BUNDLE,office supplies,paper,east,New Jersey,5,17.95,0.15,76.67,27.37, Standard Class ,CORPORATE
+ORD-010401,2024-11-02,CUST-3860,PREMIUM NOTEBOOK BUNDLE,Office Supplies, Paper ,West, California ,2,$17.60,0.05,33.43,14.6,STANDARD CLASS,consumer
+ORD-010402,2024-11-27,CUST-7779,Premium Standing Desk, Furniture ,Tables,east,MASSACHUSETTS,5,453.36,0.16,1898.97,-57.33,STANDARD CLASS,consumer
+ORD-010403,2024-11-29,CUST-5933,ink cartridge pack,OFFICE SUPPLIES,Supplies,central,Minnesota,5,55.64,0.02,271.3,68.11, Standard Class ,consumer
+ORD-010404,01-Nov-2024,CUST-6057,wireless keyboard, Technology ,accessories, South ,tennessee,4,73.57,0.09,267.72,76.1, Same Day ,consumer
+ORD-010405,2024-11-25,CUST-3362,ERGONOMIC OFFICE CHAIR,FURNITURE, Chairs ,WEST,Nevada,4,$192.57,0.13,670.9,-6.13, Second Class , Corporate 
+ORD-010406,11/02/2024,CUST-5429,Ergonomic Office Chair,furniture,Chairs, South ,FLORIDA,4,214.84,0.14,740.66,$-10.81,Standard Class, Corporate 
+ORD-010407,11/18/2024,CUST-2759,SMART LED MONITOR,technology,monitors,south, Georgia ,3,232.24,0.21,$552.15,32.51,Second Class,CORPORATE
+ORD-010408,14-Nov-2024,CUST-3030,wireless keyboard,technology,Accessories,East,NEW YORK,2,71.6,0.05,136.13,43.65,standard class, Corporate 
+ORD-010409,20-Dec-2024,CUST-2571, Smart LED Monitor ,Technology,Monitors,south,north carolina,1,238.08,0.19,193.89,16.48, Second Class ,CONSUMER
+ORD-010410,12/28/2024,CUST-8544,Smart LED Monitor,Technology,Monitors, East ,massachusetts,2,$230.34,0.09,418.06,75.38,Second Class,CONSUMER
+ORD-010411,06-Dec-2024,CUST-7265,smart led monitor, Technology ,monitors,west,Oregon,4,233.5,0.11,833.72,140.44,Standard Class, Corporate 
+ORD-010412,2024-12-29,CUST-8239, Ergonomic Office Chair ,FURNITURE, Chairs ,south,north carolina,6,214.62,0.19,1039.9,-86.26, Standard Class ,CORPORATE
+ORD-010413,2024-12-22,CUST-8612,Modular Bookshelf, Furniture , Storage ,West,California,1,183.15,0.17,151.7,-16.18,SECOND CLASS, Consumer 
+ORD-010414,12-Dec-2024,CUST-8618,COMPACT PRINTER,TECHNOLOGY,printers,west,Washington,2,146.37,0.15,247.98,-24.03,Second Class,consumer
+ORD-010415,14-Dec-2024,CUST-9149,Desk Organizer Set, Office Supplies ,storage,east,pennsylvania,2,33.48,0.02,65.49,27.54,second class,HOME OFFICE
+ORD-010416,12/29/2024,CUST-3953,modular bookshelf, Furniture ,Storage,SOUTH, Georgia ,4,174.74,0.18,576.53,-69.57,standard class,corporate
+ORD-010417,2024-12-14,CUST-1464,premium notebook bundle, Office Supplies ,paper,EAST, New York ,4,17.55,0.13,61.37,22.58,second class,home office
+ORD-010418,12/28/2024,CUST-3481,Wireless Keyboard,Technology, Accessories , Central ,texas,1,$74.06,0.06,69.7,22.7,Standard Class,Home Office
+ORD-010419,2024-12-25,CUST-2868,Compact Printer,Technology,Printers,SOUTH,Florida,3,131.68,0.14,338.15,-33.49,First Class,consumer
+ORD-010420,12/17/2024,CUST-3866,Premium Standing Desk,Furniture, Tables ,WEST,OREGON,4,467.09,0.14,1615.87,7.01,standard class, Consumer 
+ORD-010421,2024-12-13,CUST-1981,SMART LED MONITOR, Technology ,MONITORS,WEST,WASHINGTON,1,228.27,0.12,200.97,31.42,standard class,Consumer
+ORD-010422,12/26/2024,CUST-5217,Wireless Keyboard,TECHNOLOGY,accessories, South ,North Carolina,4,70.58,0.17,233.83,49.26,standard class,corporate
+ORD-010423,2024-12-23,CUST-7435,DESK ORGANIZER SET,office supplies,Storage,EAST,massachusetts,1,35.33,0.09,32.01,12.15, Standard Class , Corporate 
+ORD-010424,2024-12-01,CUST-5352,Ergonomic Office Chair,furniture,chairs,CENTRAL, Minnesota ,6,208.72,0.12,1102.26,11.59,First Class, Consumer 
+ORD-010425,2024-12-12,CUST-6222,Ink Cartridge Pack,office supplies, Supplies ,West,California,4,65.05,0.08,239.45,49.7,Second Class,HOME OFFICE
+ORD-010426,2024-12-07,CUST-7124,INK CARTRIDGE PACK, Office Supplies ,SUPPLIES, East , Pennsylvania ,3,$58.42,0.09,$159.31,29.63,Same Day,Consumer
+ORD-010427,03-Dec-2024,CUST-9129,Wireless Keyboard,electronics,accessories,Central, Minnesota ,4,73.44,0.12,$257.20,70.68,Standard Class,Consumer
+ORD-010428,2024-12-02,CUST-5550, Ergonomic Office Chair ,FURNITURE,chairs, South ,Georgia,6,203.97,,934.54,-140.52,Standard Class,Corporate
+ORD-010429,2024-12-12,CUST-8225,Smart LED Monitor,Technology,monitors,central, Minnesota ,3,$248.00,0.09,678.6,128.51,First Class,consumer
+ORD-010430,14-Dec-2024,CUST-9084,ergonomic office chair,FURNITURE,Chairs,WEST, Oregon ,6,191.38,0.15,978.41,-31.41,STANDARD CLASS,Corporate
+ORD-010431,12/30/2024,CUST-5310,DESK ORGANIZER SET,office supplies,STORAGE,South,Georgia,1,32.62,0.08,29.88,10.82, First Class ,CONSUMER
+ORD-010432,2024-12-28,CUST-5951,Ergonomic Office Chair, Furniture ,Chairs, South ,north carolina,7,$208.89,0.12,1283.13,$1.36,STANDARD CLASS, Consumer 
+ORD-010433,23-Dec-2024,CUST-2128,premium standing desk,furniture,Tables, West , Washington ,2,449.6,0.11,803.14,27.4,Standard Class,Home Office
+ORD-010434,2024-12-12,CUST-6477,Ergonomic Office Chair,FURNITURE, Chairs ,WEST,CALIFORNIA,4,206.19,0.1,744.89,$24.27, Second Class ,CORPORATE
+ORD-010435,12/24/2024,CUST-1136,Desk Organizer Set,office supplies,Storage, East , Massachusetts ,1,31.63,0.05,29.9,11.81,SECOND CLASS,CONSUMER
+ORD-010436,17-Dec-2024,CUST-7444, Wireless Keyboard ,technology,Accessories, East , New Jersey ,2,71.72,0.07,132.96,40.32, Standard Class ,consumer
+ORD-010437,12/10/2024,CUST-4920, Premium Standing Desk , Furniture ,TABLES,South,Florida,2,466.49,0.19,759.72,-45.32,second class,Consumer
+ORD-010438,12/15/2024,CUST-2733, Premium Standing Desk , Furniture , Tables ,east,new jersey,3,468.13,0.14,1211.06,$0.96,standard class,CONSUMER
+ORD-010439,12/11/2024,CUST-4907,WIRELESS KEYBOARD,TECHNOLOGY,ACCESSORIES,west,Washington,4,$78.18,0.03,303.56,104.27,Standard Class,CONSUMER
+ORD-010440,12/12/2024,CUST-4527,compact printer,Technology,Printers,south,north carolina,4,139.03,0.12,$491.33,-30.06,Standard Class, Consumer 
+ORD-010441,2024-12-15,CUST-9247,WIRELESS KEYBOARD,Technology, Accessories ,south,north carolina,3,75.75,0.19,183.13,$35.55, Same Day ,Consumer
+ORD-010442,2024-12-17,CUST-7995,SMART LED MONITOR, Technology ,monitors,west, Washington ,4,224.91,0.01,889.03,220.5,Standard Class, Consumer 
+ORD-010443,12/25/2024,CUST-5374, Smart LED Monitor ,technology,monitors,Central,illinois,5,226.84,0.05,1075.63,234.99,First Class,CONSUMER
+ORD-010444,2024-12-12,CUST-1547,ERGONOMIC OFFICE CHAIR,FURNITURE,Chairs,EAST,New York,3,198.51,0.09,540.67,17.73,standard class,corporate
+ORD-010445,16-Dec-2024,CUST-9566,Ergonomic Office Chair,furniture,chairs,central,TEXAS,5,203.06,0.1,917.82,31.6,standard class, Corporate 
+ORD-010446,2024-12-20,CUST-7542,WIRELESS KEYBOARD,technology,Accessories, South ,NORTH CAROLINA,3,73.29,0.17,$182.63,39.41,standard class,CONSUMER
+ORD-010447,2024-12-23,CUST-1814,CORDLESS PHONE DOCK, Technology ,accessories,EAST,PENNSYLVANIA,1,64.94,0.15,55.32,8.76, First Class ,Corporate
+ORD-010448,2024-12-28,CUST-6410, Smart LED Monitor ,Technology,MONITORS,Central,Texas,7,218.16,0.09,1392.69,259.58,second class, Consumer 
+ORD-010449,2024-12-05,CUST-2010,modular bookshelf,Furniture, Storage , East ,pennsylvania,2,174.54,0.07,324.74,3.02,Standard Class,consumer
+ORD-010450,12/10/2024,CUST-4774,SMART LED MONITOR, Technology ,Monitors, Central ,colorado,5,244.89,0.04,"$1,172.41",$266.79, Standard Class ,CONSUMER
+ORD-010451,2024-12-30,CUST-6600,ergonomic office chair,furniture, Chairs ,South, North Carolina ,7,$200.99,0.16,"$1,175.21",-62.31,Second Class,CORPORATE
+ORD-010452,12/12/2024,CUST-8353,compact printer,TECHNOLOGY, Printers , South , Florida ,3,137.16,0.15,351.2,-34.9, Standard Class ,CONSUMER
+ORD-010453,12/28/2024,CUST-7759,Modular Bookshelf, Furniture ,STORAGE,south,north carolina,5,171.23,0.2,$686.31,-106.42,STANDARD CLASS,CORPORATE
+ORD-010454,09-Dec-2024,CUST-1176, Ergonomic Office Chair , Furniture ,CHAIRS,SOUTH,Tennessee,4,206.03,0.23,631.18,-92.13,SECOND CLASS,CORPORATE
+ORD-010455,31-Dec-2024,CUST-7391, Compact Printer ,technology,Printers, East ,NEW JERSEY,4,145.02,0.06,545.77,5.31, First Class ,CORPORATE
+ORD-010456,2024-12-06,CUST-5840, Ergonomic Office Chair ,Furniture,CHAIRS,SOUTH, Georgia ,3,196.01,0.21,466.87,-51.56,STANDARD CLASS, Corporate 
+ORD-010457,2024-12-26,CUST-9689,WIRELESS KEYBOARD,technology,accessories, West , Nevada ,4,72.66,0.1,260.57,$74.29,second class,Home Office
+ORD-010458,24-Dec-2024,CUST-5744,smart led monitor, Technology , Monitors ,WEST,CALIFORNIA,1,227.82,0.06,214.51,45.28,First Class,CORPORATE
+ORD-010459,12/18/2024,CUST-6314,Ink Cartridge Pack,office supplies,SUPPLIES,EAST,New Jersey,5,59.03,0.1,264.48,$46.26,STANDARD CLASS,Home Office
+ORD-010460,2024-12-19,CUST-1719,wireless keyboard,TECHNOLOGY,ACCESSORIES, South , North Carolina ,5,$77.64,0.19,312.69,61.15,second class,Corporate
+ORD-010461,12/23/2024,CUST-1767,premium standing desk,Furniture,Tables, Central , Illinois ,3,443.81,0.1,1194.72,46.56, Second Class ,consumer
+ORD-010462,12-Dec-2024,CUST-2263, LED Desk Lamp ,electronics,lighting,west,washington,3,$48.00,,130.62,$25.85,Standard Class,home office
+ORD-010463,12/30/2024,CUST-3731,desk organizer set,OFFICE SUPPLIES,Storage, Central ,texas,3,35.28,0.01,104.61,$47.20,second class,consumer
+ORD-010464,2025-01-07,CUST-2629, Premium Notebook Bundle ,office supplies,paper,south,TENNESSEE,5,18.04,0.14,77.44,25.46,FIRST CLASS,Consumer
+ORD-010465,08-Jan-2025,CUST-1560, Wireless Keyboard ,technology,accessories,East, Pennsylvania ,1,77.1,0.09,69.93,$20.44,STANDARD CLASS, Corporate 
+ORD-010466,17-Jan-2025,CUST-3068,compact printer,TECHNOLOGY, Printers ,central,MINNESOTA,1,137.93,0.05,130.92,2.74,Standard Class, Corporate 
+ORD-010467,01/14/2025,CUST-1230,ergonomic office chair,furniture,CHAIRS,west,New Jersey,7,204.62,0.16,1198.47,$-55.92,STANDARD CLASS,consumer
+ORD-010468,01/05/2025,CUST-3761,MODULAR BOOKSHELF,Furniture,STORAGE,South,GEORGIA,1,185.21,0.14,159.92,-10.51,First Class,CORPORATE
+ORD-010469,01/11/2025,CUST-1190, Premium Notebook Bundle ,Office Supplies,paper,south,GEORGIA,1,17.12,0.12,14.99,$4.97,Second Class,CORPORATE
+ORD-010470,2025-01-12,CUST-6279,wireless keyboard,technology,accessories, Central ,illinois,4,74.23,0.03,286.97,$98.60,Same Day,home office
+ORD-010471,01/21/2025,CUST-8162,premium standing desk, Furniture ,TABLES,East,pennsylvania,2,451.73,0.12,798.44,18.61, Second Class ,corporate
+ORD-010472,2025-01-02,CUST-6179,SMART LED MONITOR, Technology , Monitors , South ,GEORGIA,6,226.6,0.16,1146.27,$131.37, Standard Class ,CORPORATE
+ORD-010473,01/05/2025,CUST-7349,Modular Bookshelf,FURNITURE,Storage,West,california,1,182.64,0.03,176.31,8.86,Standard Class,Corporate
+ORD-010474,25-Jan-2025,CUST-6120,Premium Standing Desk,furniture,tables,EAST,NEW JERSEY,5,449.48,0.18,1837.6,-102.77, Standard Class ,Home Office
+ORD-010475,01/17/2025,CUST-1439,desk organizer set,office supplies,storage, Central , Illinois ,4,$35.61,0.06,133.64,56.47,SECOND CLASS, Corporate 
+ORD-010476,12-Jan-2025,CUST-6325, Smart LED Monitor ,technology,Monitors, Central ,Colorado,1,228.61,0.1,205.91,36.5,standard class,HOME OFFICE
+ORD-010477,2025-01-24,CUST-4132, Compact Printer , Technology ,Printers,central,ILLINOIS,4,137.96,0.11,493.3,-19.53,Same Day, Home Office 
+ORD-010478,22-Jan-2025,CUST-6936,Smart LED Monitor, Technology , Monitors ,central,colorado,6,234.56,0.02,"$1,378.28",336.17,SECOND CLASS, Consumer 
+ORD-010479,2025-01-10,CUST-1228, Ergonomic Office Chair ,Furniture,chairs,EAST,new york,3,$218.96,0.12,$579.57,7.56, Standard Class , Home Office 
+ORD-010480,01/20/2025,CUST-4887,modular bookshelf,furniture,STORAGE,EAST,new york,5,166.0,0.15,709.45,-58.53,Standard Class,Home Office
+ORD-010481,2025-01-12,CUST-7615,ink cartridge pack,OFFICE SUPPLIES,supplies,central,Texas,2,$60.83,0.06,$114.26,25.94,SECOND CLASS,CONSUMER
+ORD-010482,01/11/2025,CUST-7420, Wireless Keyboard ,technology, Accessories ,east,New Jersey,4,$73.44,0.1,$263.61,74.3,standard class, Corporate 
+ORD-010483,01/10/2025,CUST-9630, Ink Cartridge Pack ,office supplies,supplies,east,new york,5,61.96,0.07,289.51,61.34,Standard Class,Consumer
+ORD-010484,2025-01-04,CUST-2944,Smart LED Monitor,TECHNOLOGY, Monitors , South , Georgia ,5,218.67,0.14,940.81,123.62, Standard Class ,Consumer
+ORD-010485,10-Jan-2025,CUST-6179, Wireless Keyboard ,TECHNOLOGY,ACCESSORIES,West, Nevada ,1,71.67,0.07,$66.40,20.41, Standard Class ,HOME OFFICE
+ORD-010486,2025-01-28,CUST-3544,PREMIUM NOTEBOOK BUNDLE,office supplies,Paper,WEST,oregon,1,17.79,0.13,$15.40,5.91,Standard Class, Consumer 
+ORD-010487,01/23/2025,CUST-4219,Premium Notebook Bundle,Office Supplies,paper, Central ,minnesota,4,18.07,0.06,68.21,$31.37, Standard Class ,CONSUMER
+ORD-010488,2025-01-12,CUST-4765,Compact Printer,TECHNOLOGY,PRINTERS, Central ,illinois,2,142.42,0.05,270.92,$6.65,STANDARD CLASS,consumer
+ORD-010489,2025-01-02,CUST-2621, Wireless Keyboard , Technology ,accessories,CENTRAL,colorado,4,77.7,0.05,293.9,97.34,Standard Class,consumer
+ORD-010490,2025-01-09,CUST-5950,Wireless Keyboard, Technology ,accessories,east,Pennsylvania,3,73.27,0.09,$199.57,$57.88, Standard Class ,Home Office
+ORD-010491,24-Jan-2025,CUST-5519,CORDLESS PHONE DOCK,TECHNOLOGY,accessories,South,Florida,2,65.26,0.12,114.28,19.74,FIRST CLASS, Consumer 
+ORD-010492,2025-01-27,CUST-1534,MODULAR BOOKSHELF,FURNITURE,storage,SOUTH, North Carolina ,4,177.92,0.21,562.88,-94.03,SECOND CLASS,CORPORATE
+ORD-010493,2025-01-04,CUST-7439,smart led monitor, Technology ,Monitors,EAST,New York,2,$219.54,0.08,402.62,$75.49,first class,corporate
+ORD-010494,15-Jan-2025,CUST-3277, LED Desk Lamp ,furniture,LIGHTING, East ,pennsylvania,5,48.39,0.13,$209.99,$32.66,STANDARD CLASS,Corporate
+ORD-010495,28-Jan-2025,CUST-6566, Ink Cartridge Pack ,office supplies, Supplies , Central , Colorado ,2,60.53,0.11,$108.08,20.16,Standard Class,consumer
+ORD-010496,2025-02-28,CUST-1078, Smart LED Monitor , Technology ,MONITORS, Central ,ILLINOIS,6,$235.38,0.06,1321.4,275.77,Standard Class,CONSUMER
+ORD-010497,17-Feb-2025,CUST-1345,premium standing desk,FURNITURE, Tables , South , Tennessee ,4,452.31,0.18,1482.44,-81.12,SECOND CLASS,consumer
+ORD-010498,02/01/2025,CUST-1149, Modular Bookshelf ,FURNITURE, Storage ,East,Pennsylvania,3,160.07,0.07,447.19,1.52,Second Class,HOME OFFICE
+ORD-010499,15-Feb-2025,CUST-5933,compact printer,technology,PRINTERS,east,Pennsylvania,3,$135.00,0.14,349.64,$-29.26,Second Class, Home Office 
+ORD-010500,27-Feb-2025,CUST-7380,Ink Cartridge Pack,OFFICE SUPPLIES,supplies, West , Washington ,5,61.57,0.07,287.48,$62.14,SECOND CLASS, Consumer 
+ORD-010501,08-Feb-2025,CUST-8377, Ergonomic Office Chair ,Furniture,chairs,CENTRAL, Colorado ,4,197.77,0.11,702.26,10.19,Standard Class, Corporate 
+ORD-010502,20-Feb-2025,CUST-8196, Smart LED Monitor ,technology,monitors,central,MINNESOTA,5,234.82,0.11,1041.6,$172.25, Standard Class , Consumer 
+ORD-010503,02/08/2025,CUST-7027,ERGONOMIC OFFICE CHAIR,furniture,CHAIRS, East , New York ,-1,197.37,0.08,542.75,22.56,Same Day,HOME OFFICE
+ORD-010504,2025-02-12,CUST-7036, Ergonomic Office Chair ,Furniture,Chairs,West,,2,$193.22,0.12,340.81,1.26, Second Class ,CONSUMER
+ORD-010505,13-Feb-2025,CUST-4833,ergonomic office chair,Furniture,Chairs,east, New York ,2,202.01,0.04,388.8,34.59,Standard Class,corporate
+ORD-010506,02/27/2025,CUST-9306,PREMIUM STANDING DESK,furniture,Tables, South ,GEORGIA,2,504.98,0.2,812.15,-56.01,Standard Class, Consumer 
+ORD-010507,02/03/2025,CUST-9196,Ergonomic Office Chair, Furniture ,CHAIRS,CENTRAL,Illinois,3,200.07,0.12,525.79,1.23,STANDARD CLASS,corporate
+ORD-010508,2025-02-17,CUST-5088,PREMIUM STANDING DESK, Furniture ,tables,SOUTH, Tennessee ,5,453.78,0.16,1912.24,-48.26,standard class,Consumer
+ORD-010509,2025-02-07,CUST-3771,MODULAR BOOKSHELF, Furniture ,storage,east,Pennsylvania,5,173.51,0.16,726.23,-73.69,Standard Class, Home Office 
+ORD-010510,11-Feb-2025,CUST-3151,ergonomic office chair,FURNITURE,Chairs,EAST, New Jersey ,2,195.85,0.09,355.63,11.26,First Class,Corporate
+ORD-010511,2025-02-08,CUST-3005,PREMIUM NOTEBOOK BUNDLE,OFFICE SUPPLIES,PAPER, East ,NEW YORK,1,17.62,0.13,$15.31,$5.58,standard class, Corporate 
+ORD-010512,16-Feb-2025,CUST-5100,MODULAR BOOKSHELF,FURNITURE,STORAGE,WEST, Oregon ,5,167.72,0.05,795.87,22.06,second class, Home Office 
+ORD-010513,2025-02-11,CUST-4942,smart led monitor,technology,monitors,south,TENNESSEE,3,221.45,0.1,595.69,99.34,second class,corporate
+ORD-010514,2025-02-08,CUST-5922,SMART LED MONITOR, Technology ,Monitors,CENTRAL, Colorado ,1,231.11,0.07,214.66,43.46,standard class,corporate
+ORD-010515,18-Feb-2025,CUST-5176,premium notebook bundle,Office Supplies, Paper ,South, Florida ,4,18.02,0.12,$63.51,$21.96,STANDARD CLASS, Corporate 
+ORD-010516,02-Feb-2025,CUST-5093,Smart LED Monitor,Technology,monitors,CENTRAL,TEXAS,5,$233.61,0.08,1076.31,211.31,same day,Consumer
+ORD-010517,2025-02-20,CUST-5183,MODULAR BOOKSHELF,Furniture,Storage, Central , Illinois ,3,152.63,0.09,415.7,-8.92, Standard Class , Corporate 
+ORD-010518,02/01/2025,CUST-2382,Compact Printer,TECHNOLOGY,printers,south, Georgia ,1,145.23,0.2,116.81,-19.0,STANDARD CLASS,Home Office
+ORD-010519,02/27/2025,CUST-3566,Ink Cartridge Pack,OFFICE SUPPLIES,supplies,East,Massachusetts,4,56.75,0.09,207.6,39.23, First Class ,Consumer
+ORD-010520,07-Feb-2025,CUST-4263,Premium Standing Desk,FURNITURE,Tables,CENTRAL,ILLINOIS,2,425.68,0.12,747.68,11.97,SECOND CLASS, Consumer 
+ORD-010521,02/18/2025,CUST-4239,ink cartridge pack,office supplies,supplies,Central,texas,4,$56.75,0.06,212.32,46.76, First Class , Corporate 
+ORD-010522,2025-02-12,CUST-5417,PREMIUM STANDING DESK,FURNITURE,Tables,South, North Carolina ,5,494.83,0.14,2124.81,-3.98,second class, Consumer 
+ORD-010523,17-Feb-2025,CUST-6949, Wireless Keyboard , Technology ,ACCESSORIES,east, New York ,5,69.41,0.08,317.89,$93.12,standard class, Home Office 
+ORD-010524,14-Feb-2025,CUST-3502,smart led monitor,Technology, Monitors , East ,Pennsylvania,2,236.88,0.05,449.0,96.89,SECOND CLASS,Home Office
+ORD-010525,2025-02-19,CUST-7388,led desk lamp,furniture,LIGHTING,CENTRAL,COLORADO,1,48.03,0.15,40.89,6.35,Standard Class,corporate
+ORD-010526,2025-02-21,CUST-6081, Wireless Keyboard ,technology,accessories,East,NEW YORK,5,70.49,0.14,302.49,$74.55, Second Class ,Consumer
+ORD-010527,22-Mar-2025,CUST-5443,ERGONOMIC OFFICE CHAIR, Furniture ,chairs,south, Tennessee ,6,208.91,0.2,1000.23,-98.54,Same Day,CORPORATE
+ORD-010528,2025-03-05,CUST-4965, Wireless Keyboard ,technology,Accessories,East,New Jersey,4,73.51,0.1,$265.14,75.65,Second Class,corporate
+ORD-010529,2025-03-24,CUST-6715, Wireless Keyboard ,TECHNOLOGY,Accessories,WEST,WASHINGTON,3,$76.52,0.06,215.86,$69.32,STANDARD CLASS, Home Office 
+ORD-010530,2025-03-23,CUST-4961,Cordless Phone Dock,Technology, Accessories ,west,Oregon,3,62.51,0.05,177.35,43.38, Standard Class ,Home Office
+ORD-010531,03/22/2025,CUST-6419,PREMIUM STANDING DESK,furniture,TABLES,south, Florida ,4,446.09,0.17,"$1,479.52",-63.65, First Class ,Corporate
+ORD-010532,29-Mar-2025,CUST-1366,ergonomic office chair,furniture,chairs, East ,MASSACHUSETTS,4,192.79,0.13,670.5,-8.42, Standard Class , Home Office 
+ORD-010533,2025-03-03,CUST-2476,desk organizer set,office supplies,storage,south,tennessee,2,35.01,0.16,58.93,18.52, First Class ,consumer
+ORD-010534,2025-03-16,CUST-9761,premium standing desk, Furniture ,TABLES,South, Tennessee ,2,461.15,0.19,745.47,-50.81,First Class,Corporate
+ORD-010535,2025-03-28,CUST-7322,PREMIUM STANDING DESK,Furniture,TABLES,East,NEW YORK,5,$460.83,0.12,2026.19,39.29,Standard Class,HOME OFFICE
+ORD-010536,2025-03-07,CUST-9731,wireless keyboard,TECHNOLOGY,accessories,east,NEW JERSEY,2,73.73,0.1,133.07,38.07,Standard Class,Home Office
+ORD-010537,2025-03-30,CUST-8628,ink cartridge pack,OFFICE SUPPLIES,SUPPLIES, South ,florida,3,61.87,0.18,151.59,13.38, Standard Class ,HOME OFFICE
+ORD-010538,2025-03-08,CUST-2475,LED DESK LAMP,Furniture,lighting, East , New York ,5,50.21,0.15,213.23,30.07,Standard Class, Home Office 
+ORD-010539,03/06/2025,CUST-9313,premium standing desk,FURNITURE, Tables , West ,Nevada,4,452.66,0.13,1577.18,15.64,Standard Class, Consumer 
+ORD-010540,2025-03-12,CUST-5492,smart led monitor,Technology,Monitors,SOUTH,georgia,3,$239.08,0.12,634.19,99.76,Standard Class,CONSUMER
+ORD-010541,03/24/2025,CUST-9455, Premium Standing Desk ,FURNITURE,TABLES, South ,NORTH CAROLINA,3,471.93,0.15,1208.22,-12.74, Standard Class , Home Office 
+ORD-010542,03/27/2025,CUST-8114,smart led monitor,TECHNOLOGY,monitors,South,GEORGIA,6,241.95,0.15,1236.94,$155.73,FIRST CLASS,Home Office
+ORD-010543,03/08/2025,CUST-7192, Ergonomic Office Chair ,furniture, Chairs ,SOUTH,Florida,4,$204.42,0.22,640.91,-77.22,standard class,Consumer
+ORD-010544,13-Mar-2025,CUST-8433, Premium Standing Desk ,furniture,tables,east,Pennsylvania,6,461.8,0.07,2578.0,188.97,standard class, Home Office 
+ORD-010545,2025-03-29,CUST-7811,Premium Notebook Bundle, Office Supplies ,PAPER,East,NEW JERSEY,3,18.66,0.1,50.46,20.0,Same Day,HOME OFFICE
+ORD-010546,03/22/2025,CUST-2473,Smart LED Monitor,TECHNOLOGY,monitors,CENTRAL, Illinois ,2,235.19,0.03,454.74,106.46,standard class,CORPORATE
+ORD-010547,2025-03-23,CUST-2013,SMART LED MONITOR, Technology ,Monitors,west, California ,6,$222.26,0.07,"$1,235.14",243.77,second class,corporate
+ORD-010548,03/04/2025,CUST-5938,ergonomic office chair,Furniture, Chairs ,central,minnesota,7,189.97,0.1,1198.3,30.85,STANDARD CLASS,consumer
+ORD-010549,2025-03-19,CUST-3804,ERGONOMIC OFFICE CHAIR,FURNITURE,chairs,EAST,PENNSYLVANIA,2,202.33,0.07,374.91,20.18,Standard Class,HOME OFFICE
+ORD-010550,24-Mar-2025,CUST-6293,SMART LED MONITOR, Technology ,MONITORS, Central , Colorado ,5,219.54,0.02,1070.52,256.19, Standard Class ,CONSUMER
+ORD-010551,20-Mar-2025,CUST-8710,Modular Bookshelf,furniture,Storage,East,Massachusetts,2,162.21,0.15,275.52,-25.23,first class,Home Office
+ORD-010552,03/08/2025,CUST-8939,wireless keyboard,TECHNOLOGY, Accessories , South ,GEORGIA,3,72.01,0.1,193.88,52.92, Standard Class ,Consumer
+ORD-010553,03/10/2025,CUST-7119,desk organizer set,Office Supplies,storage, East , New York ,1,$36.00,0.1,$32.26,12.08, Standard Class ,CONSUMER
+ORD-010554,02-Mar-2025,CUST-4191, Smart LED Monitor ,Technology,MONITORS,SOUTH,FLORIDA,4,234.26,0.16,791.37,92.72, Second Class ,corporate
+ORD-010555,2025-03-13,CUST-1539,wireless keyboard, Technology , Accessories ,South,Tennessee,3,$75.36,0.17,188.36,41.48,first class, Consumer 
+ORD-010556,2025-03-11,CUST-1033, Premium Notebook Bundle , Office Supplies ,PAPER,SOUTH,TENNESSEE,1,$17.28,0.17,14.35,4.27,same day,Consumer
+ORD-010557,2025-03-19,CUST-9515,SMART LED MONITOR, Technology ,monitors,south,tennessee,3,234.19,0.13,611.9,88.05,SECOND CLASS,Consumer
+ORD-010558,03/18/2025,CUST-4738,ink cartridge pack,Office Supplies,Supplies, West ,Oregon,5,53.26,0.09,243.17,46.1, Standard Class ,HOME OFFICE
+ORD-010559,2025-03-26,CUST-2296,smart led monitor,Technology,Monitors,WEST,Oregon,7,249.57,0.04,1679.89,385.66,SAME DAY,CONSUMER
+ORD-010560,03/12/2025,CUST-2995, Desk Organizer Set , Office Supplies ,Storage,central,MINNESOTA,4,31.82,0.09,115.43,45.54, First Class ,corporate
+ORD-010561,2025-03-13,CUST-8145,premium standing desk,FURNITURE,TABLES, South , Florida ,3,443.64,0.15,1129.73,-21.62, Standard Class ,CORPORATE
+ORD-010562,03/10/2025,CUST-6262,premium standing desk,furniture,Tables,Central,illinois,1,416.82,0.13,361.71,1.13,STANDARD CLASS,Home Office
+ORD-010563,03/26/2025,CUST-8782,PREMIUM NOTEBOOK BUNDLE, Office Supplies ,Paper,East,new york,1,17.47,0.08,16.11,6.45, Standard Class ,Consumer
+ORD-010564,03/22/2025,CUST-9600,DESK ORGANIZER SET, Office Supplies ,STORAGE,west,NEVADA,1,$35.01,0.08,32.34,12.94,Standard Class,CONSUMER
+ORD-010565,2025-03-02,CUST-5577,premium standing desk,FURNITURE,tables,Central, Colorado ,4,$442.28,0.11,1574.39,48.5,STANDARD CLASS,HOME OFFICE
+ORD-010566,09-Mar-2025,CUST-4414,WIRELESS KEYBOARD,TECHNOLOGY,Accessories,West,washington,1,76.22,0.11,67.85,19.18,standard class, Consumer 
+ORD-010567,03/02/2025,CUST-4414,smart led monitor, Technology , Monitors ,east, New Jersey ,2,$224.33,0.14,387.06,53.03,standard class,CONSUMER
+ORD-010568,2025-03-15,CUST-1319, Compact Printer ,Technology,PRINTERS, South , Florida ,1,134.62,0.17,$111.57,-14.89,STANDARD CLASS, Corporate 
+ORD-010569,2025-03-06,CUST-6130,premium notebook bundle,Office Supplies,Paper,WEST,Oregon,1,18.07,0.06,16.95,$7.34,first class,corporate
+ORD-010570,03/18/2025,CUST-2157,PREMIUM STANDING DESK,Furniture,TABLES,West,Washington,2,485.08,0.14,$830.00,-3.92,standard class,Consumer
+ORD-010571,2025-03-31,CUST-8547,SMART LED MONITOR,technology, Monitors ,WEST,OREGON,2,226.06,0.07,421.81,85.88,First Class,Corporate
+ORD-010572,12-Mar-2025,,Ergonomic Office Chair, Furniture , Chairs ,WEST,california,4,197.45,0.2,$634.49,-58.15,Standard Class, Corporate 
+ORD-010573,17-Mar-2025,CUST-2862, Ergonomic Office Chair ,furniture,Chairs, Central ,Colorado,6,206.54,0.09,"$1,126.64",46.43,Standard Class,Corporate
+ORD-010574,03/24/2025,CUST-1900,COMPACT PRINTER,TECHNOLOGY,Printers, West ,Nevada,2,138.28,0.11,245.58,-12.2,First Class,HOME OFFICE
+ORD-010575,2025-03-27,CUST-3269,premium standing desk,FURNITURE,Tables,East,New York,4,415.54,0.09,1504.93,63.96,STANDARD CLASS, Home Office 
+ORD-010576,2025-03-24,CUST-2220,premium notebook bundle,office supplies,Paper,East, New Jersey ,3,$16.38,0.11,43.52,15.86,standard class,Corporate
+ORD-010577,12-Mar-2025,CUST-6326, Smart LED Monitor ,technology,monitors,SOUTH, North Carolina ,4,239.64,0.15,816.78,102.61,Second Class,home office
+ORD-010578,28-Mar-2025,CUST-9552,Ergonomic Office Chair,Furniture,CHAIRS,CENTRAL,MINNESOTA,6,207.27,0.1,1118.47,$34.79,Same Day,CONSUMER
+ORD-010579,2025-03-22,CUST-8008,Modular Bookshelf,FURNITURE,STORAGE, West ,Oregon,3,170.52,0.09,466.97,-4.46,STANDARD CLASS,Corporate
+ORD-010580,01-Mar-2025,CUST-6045,Smart LED Monitor, Technology ,monitors, Central , Illinois ,3,228.08,0.06,$642.79,135.73,standard class,Consumer
+ORD-010581,18-Mar-2025,CUST-8916,Ergonomic Office Chair,FURNITURE,CHAIRS,East,pennsylvania,6,197.09,0.04,1136.64,97.62,standard class,Consumer
+ORD-010582,03-Apr-2025,CUST-2786,smart led monitor,TECHNOLOGY,Monitors,CENTRAL,Illinois,7,235.37,0.08,1523.47,$303.58,First Class,Consumer
+ORD-010583,04/28/2025,CUST-7334,Ink Cartridge Pack, Office Supplies ,supplies,south,NORTH CAROLINA,2,61.75,0.16,103.44,11.46, First Class ,consumer
+ORD-010584,20-Apr-2025,CUST-7134,wireless keyboard,TECHNOLOGY,accessories,west,CALIFORNIA,5,72.31,0.03,349.64,117.83, Standard Class ,CONSUMER
+ORD-010585,2025-04-25,CUST-9401,ERGONOMIC OFFICE CHAIR,Furniture,Chairs,West,oregon,6,193.73,0.16,981.17,-39.92,Standard Class, Consumer 
+ORD-010586,05-Apr-2025,CUST-5272,MODULAR BOOKSHELF,furniture,Storage,EAST, New York ,3,$169.05,0.15,433.56,-35.03,STANDARD CLASS, Home Office 
+ORD-010587,12-Apr-2025,CUST-5808,modular bookshelf, Furniture , Storage ,central, Texas ,4,$169.37,0.08,621.12,$-1.95, Standard Class ,Home Office
+ORD-010588,04/19/2025,CUST-6371, Ink Cartridge Pack ,OFFICE SUPPLIES,SUPPLIES,central, Illinois ,-1,$61.26,0.04,117.08,28.16, Second Class , Home Office 
+ORD-010589,04/09/2025,CUST-7542, Smart LED Monitor ,Technology,Monitors,East,new york,2,$244.02,0.11,$431.98,69.59, Same Day ,Corporate
+ORD-010590,03-Apr-2025,CUST-2378, Wireless Keyboard ,Technology,ACCESSORIES,Central,colorado,1,76.42,0.1,69.01,20.63,standard class, Home Office 
+ORD-010591,01-Apr-2025,CUST-4241,ink cartridge pack,OFFICE SUPPLIES, Supplies ,east,new jersey,4,58.79,0.07,217.7,43.78,STANDARD CLASS, Consumer 
+ORD-010592,04/22/2025,CUST-1036,Wireless Keyboard,electronics,accessories,East,pennsylvania,1,73.65,0.04,70.6,$23.15,second class,CONSUMER
+ORD-010593,07-Apr-2025,CUST-9289, Ink Cartridge Pack ,OFFICE SUPPLIES, Supplies ,south,georgia,5,58.64,0.18,240.83,21.46,standard class,home office
+ORD-010594,04/21/2025,CUST-6098,Compact Printer,technology, Printers ,central,ILLINOIS,2,$141.56,0.12,248.17,-14.58,SECOND CLASS,corporate
+ORD-010595,03-Apr-2025,CUST-6958,Smart LED Monitor,TECHNOLOGY,monitors,West, Nevada ,1,216.64,0.09,197.32,36.14,Second Class,Consumer
+ORD-010596,10-Apr-2025,CUST-7560,wireless keyboard,Technology,ACCESSORIES,south,georgia,2,76.13,0.14,130.37,31.54, Second Class ,CORPORATE
+ORD-010597,04/26/2025,CUST-6482,Wireless Keyboard, Technology , Accessories , East , Pennsylvania ,3,76.96,0.11,206.25,58.04,second class,home office
+ORD-010598,04/04/2025,CUST-1986,ergonomic office chair, Furniture ,CHAIRS, Central ,colorado,1,$203.88,0.12,179.46,1.56,STANDARD CLASS,Corporate
+ORD-010599,04/02/2025,CUST-4442,modular bookshelf,FURNITURE,STORAGE,West, Nevada ,4,157.91,0.15,538.85,-46.84,Standard Class,Consumer
+ORD-010600,26-Apr-2025,CUST-6509,premium standing desk,Furniture, Tables ,East,NEW YORK,4,$424.74,0.16,1421.37,$-49.79,standard class,consumer
+ORD-010601,04/15/2025,CUST-1898,INK CARTRIDGE PACK,office supplies,SUPPLIES, South ,Florida,1,58.21,0.18,48.01,4.43, Standard Class ,consumer
+ORD-010602,04/09/2025,CUST-6087,compact printer,Technology,printers,east,NEW JERSEY,1,$140.08,0.12,123.81,-6.96,standard class,consumer
+ORD-010603,08-Apr-2025,CUST-7316,Smart LED Monitor,technology,Monitors,South,Georgia,6,213.96,0.18,1050.93,90.62,Same Day, Consumer 
+ORD-010604,2025-04-11,CUST-7974, Premium Standing Desk , Furniture ,tables,south, Tennessee ,2,442.34,0.14,757.3,-8.13,First Class, Home Office 
+ORD-010605,2025-04-01,CUST-7858,ergonomic office chair, Furniture ,chairs,East,NEW YORK,4,193.25,0.15,658.29,-22.1,Standard Class, Consumer 
+ORD-010606,2025-04-24,CUST-4527,PREMIUM STANDING DESK,furniture,tables, East ,massachusetts,6,428.28,0.17,2124.72,$-99.43,Second Class,Home Office
+ORD-010607,2025-04-28,CUST-6591,WIRELESS KEYBOARD,TECHNOLOGY,Accessories,South,NORTH CAROLINA,3,$71.82,0.22,168.18,27.55, First Class ,HOME OFFICE
+ORD-010608,2025-05-16,CUST-1715, Wireless Keyboard ,technology,Accessories, West , Nevada ,1,$77.14,0.1,$69.64,20.43,SECOND CLASS, Consumer 
+ORD-010609,05/03/2025,CUST-1120, Cordless Phone Dock ,electronics,ACCESSORIES, Central ,ILLINOIS,3,61.5,0.05,175.39,44.62, Standard Class ,CORPORATE
+ORD-010610,05/26/2025,CUST-2139,PREMIUM STANDING DESK,Furniture,tables,central,Colorado,4,451.85,0.07,1674.76,117.48,first class,CONSUMER
+ORD-010611,2025-05-20,CUST-8453,smart led monitor,technology, Monitors ,WEST,Nevada,4,228.36,0.09,$827.13,$148.66,SECOND CLASS,CORPORATE
+ORD-010612,31-May-2025,CUST-4853,PREMIUM STANDING DESK,FURNITURE,tables,CENTRAL,MINNESOTA,2,460.44,0.08,843.55,50.83,Standard Class,CORPORATE
+ORD-010613,05/18/2025,CUST-4562,COMPACT PRINTER,technology, Printers , West , Oregon ,2,139.45,0.05,265.8,$5.97,First Class,CONSUMER
+ORD-010614,05/05/2025,CUST-4222,led desk lamp, Furniture ,lighting,central, Minnesota ,2,47.44,0.14,81.29,12.97,standard class, Consumer 
+ORD-010615,05/27/2025,CUST-6084, Premium Standing Desk , Furniture ,Tables, West , Washington ,5,467.09,0.1,2108.42,97.34,FIRST CLASS,CORPORATE
+ORD-010616,16-May-2025,CUST-4206,Modular Bookshelf,Furniture,STORAGE, Central ,texas,4,156.4,0.1,562.83,-16.14, Second Class ,CONSUMER
+ORD-010617,05/02/2025,CUST-2242,LED Desk Lamp,furniture,Lighting,WEST,oregon,3,50.2,0.08,139.0,30.02, Second Class ,CORPORATE
+ORD-010618,2025-05-09,CUST-9533,DESK ORGANIZER SET,OFFICE SUPPLIES,storage,central,texas,5,34.28,0.06,161.33,68.05,STANDARD CLASS,corporate
+ORD-010619,05/03/2025,CUST-1329,Ergonomic Office Chair, Furniture ,CHAIRS,south, Florida ,2,204.7,0.21,$324.03,-35.5,Standard Class,Consumer
+ORD-010620,2025-05-19,CUST-2410,LED Desk Lamp, Furniture ,Lighting, West ,nevada,2,49.21,0.09,89.54,18.15,SECOND CLASS,consumer
+ORD-010621,19-May-2025,CUST-1742,MODULAR BOOKSHELF,Furniture, Storage , South , North Carolina ,2,168.6,0.11,300.46,-12.17,standard class,CORPORATE
+ORD-010622,05/04/2025,CUST-6679,Smart LED Monitor,Technology, Monitors ,WEST, Nevada ,2,212.72,0.1,383.54,66.83,SECOND CLASS,Corporate
+ORD-010623,05/08/2025,CUST-4244,compact printer,technology, Printers ,East, New York ,1,133.88,0.14,$115.58,-9.74, Same Day , Home Office 
+ORD-010624,05/03/2025,CUST-9659,wireless keyboard,technology,Accessories, East , New York ,1,73.29,0.06,68.58,21.34,second class,Corporate
+ORD-010625,14-May-2025,CUST-7286,file cabinet,FURNITURE,STORAGE,South, Florida ,2,$202.69,0.19,327.35,$-73.49, Standard Class ,CORPORATE
+ORD-010626,20-May-2025,CUST-5088,SMART LED MONITOR, Technology ,MONITORS, East ,NEW YORK,3,222.95,0.09,606.93,$108.86,Standard Class,CONSUMER
+ORD-010627,05/23/2025,CUST-2079,SMART LED MONITOR,Technology,Monitors,CENTRAL,Texas,3,224.37,0.08,616.86,117.83,Standard Class,corporate
+ORD-010628,2025-05-15,CUST-9509,ergonomic office chair,Furniture,chairs,Central,Minnesota,7,205.98,0.11,1288.57,31.46,First Class,CORPORATE
+ORD-010629,2025-05-06,CUST-4297,PREMIUM STANDING DESK, Furniture ,Tables,CENTRAL, Minnesota ,4,447.8,0.11,"$1,587.90",43.92,SECOND CLASS,Home Office
+ORD-010630,13-May-2025,CUST-2335,SMART LED MONITOR, Technology ,Monitors,Central,illinois,7,234.99,0.05,1560.56,342.61,FIRST CLASS, Corporate 
+ORD-010631,01-May-2025,CUST-9052, Premium Standing Desk ,Furniture, Tables , East , Pennsylvania ,4,457.3,0.15,1545.94,-32.02,second class,Consumer
+ORD-010632,05/06/2025,CUST-4562,PREMIUM NOTEBOOK BUNDLE,office supplies,paper, South ,GEORGIA,2,18.5,0.11,$33.09,11.92,standard class,home office
+ORD-010633,2025-05-27,CUST-4618,FILE CABINET,Furniture,Storage,SOUTH,Tennessee,5,211.77,0.16,889.17,-153.79,SAME DAY,corporate
+ORD-010634,2025-05-05,CUST-2370,Cordless Phone Dock,technology,Accessories,East,new york,4,$70.59,0.1,252.88,51.71,FIRST CLASS, Consumer 
+ORD-010635,07-May-2025,CUST-3884,Ergonomic Office Chair,furniture, Chairs ,WEST, Washington ,2,219.49,0.1,396.66,15.07,STANDARD CLASS,consumer
+ORD-010636,2025-05-20,CUST-1545,PREMIUM NOTEBOOK BUNDLE, Office Supplies , Paper ,South,north carolina,1,18.08,0.08,16.7,6.29,First Class,Consumer
+ORD-010637,05/10/2025,CUST-6307,PREMIUM STANDING DESK,Furniture,tables,Central,colorado,7,468.87,0.1,2957.65,134.72,STANDARD CLASS,Consumer
+ORD-010638,2025-05-25,CUST-9609, Compact Printer , Technology ,printers,south, North Carolina ,1,137.72,0.17,113.98,-15.21,First Class,Consumer
+ORD-010639,2025-05-29,CUST-9762,smart led monitor, Technology ,MONITORS,west,OREGON,5,$250.55,0.1,1124.3,196.33,Standard Class,CORPORATE
+ORD-010640,10-Jun-2025,CUST-4334,DESK ORGANIZER SET,OFFICE SUPPLIES,Storage,West,WASHINGTON,1,33.43,0.05,31.64,12.99,standard class,Corporate
+ORD-010641,2025-06-17,CUST-2427,ink cartridge pack, Office Supplies ,Supplies,West,nevada,1,$58.42,0.09,53.03,10.1,Second Class,CONSUMER
+ORD-010642,02-Jun-2025,CUST-6665,PREMIUM STANDING DESK,Furniture,tables, South ,north carolina,4,$450.82,0.2,"$1,442.54",-116.15,Standard Class,Consumer
+ORD-010643,06/17/2025,CUST-5465, Desk Organizer Set ,office supplies,STORAGE,SOUTH,tennessee,4,33.94,0.08,124.88,46.11, Standard Class ,Home Office
+ORD-010644,06/14/2025,CUST-9962,SMART LED MONITOR,TECHNOLOGY,Monitors,WEST,NEVADA,4,243.38,0.11,869.05,147.31,Standard Class,Consumer
+ORD-010645,06/05/2025,CUST-5666,Premium Standing Desk,FURNITURE,Tables,Central,COLORADO,4,$482.59,0.14,1656.07,$-2.02,SECOND CLASS, Corporate 
+ORD-010646,28-Jun-2025,CUST-7429,Smart LED Monitor,technology,monitors,South, Georgia ,2,223.81,0.13,$389.24,54.96, Second Class ,Consumer
+ORD-010647,2025-06-07,CUST-9235,Smart LED Monitor,TECHNOLOGY, Monitors ,CENTRAL,Texas,3,207.62,0.15,530.16,67.31,First Class,CONSUMER
+ORD-010648,06/28/2025,CUST-6391,Desk Organizer Set,OFFICE SUPPLIES,Storage,CENTRAL, Colorado ,2,32.46,0.1,58.54,$22.97, Second Class ,CORPORATE
+ORD-010649,10-Jun-2025,CUST-9020,ink cartridge pack,Office Supplies,SUPPLIES,WEST,OREGON,5,$54.97,0.04,$262.88,59.98,STANDARD CLASS,CONSUMER
+ORD-010650,06/13/2025,CUST-2014,smart led monitor,Technology,monitors,South,north carolina,4,224.14,0.21,708.13,38.62, Standard Class ,Home Office
+ORD-010651,2025-06-20,CUST-9731,Desk Organizer Set,OFFICE SUPPLIES, Storage ,central, Texas ,2,35.14,0.08,64.47,26.34,Second Class,CORPORATE
+ORD-010652,06/14/2025,CUST-1090,Smart LED Monitor,technology,MONITORS,EAST, New York ,2,229.8,0.07,427.11,$85.20,Same Day, Consumer 
+ORD-010653,2025-06-02,CUST-7192,Ergonomic Office Chair,furniture, Chairs ,central,MINNESOTA,5,185.98,0.13,807.58,-10.36,STANDARD CLASS, Consumer 
+ORD-010654,2025-06-11,CUST-3783,ERGONOMIC OFFICE CHAIR,Furniture,Chairs,east,pennsylvania,3,197.45,0.02,579.25,58.88,standard class,consumer
+ORD-010655,2025-06-17,CUST-1195,Ergonomic Office Chair,Furniture,Chairs,west, California ,3,$203.96,0.07,569.13,34.04,second class,corporate
+ORD-010656,2025-06-18,CUST-2592,Modular Bookshelf, Furniture , Storage ,West,NEVADA,2,156.67,0.14,270.79,-19.94, Standard Class ,Home Office
+ORD-010657,06/10/2025,CUST-4054,FILE CABINET,furniture,STORAGE,South,georgia,5,215.64,0.13,939.56,-120.82, Standard Class , Corporate 
+ORD-010658,25-Jun-2025,CUST-9038,modular bookshelf, Furniture ,STORAGE,west, Oregon ,1,166.03,0.07,154.0,0.68,standard class,Consumer
+ORD-010659,2025-06-09,CUST-4897,wireless keyboard,technology, Accessories ,SOUTH,Florida,2,69.85,0.13,120.85,$29.43,Second Class,HOME OFFICE
+ORD-010660,06/04/2025,CUST-9046, Modular Bookshelf ,FURNITURE,Storage,East,new jersey,2,171.36,0.13,$298.36,$-17.95,FIRST CLASS,CORPORATE
+ORD-010661,2025-06-12,CUST-4796, Premium Notebook Bundle , Office Supplies , Paper , Central ,MINNESOTA,1,18.08,0.08,16.6,7.38,same day, Corporate 
+ORD-010662,2025-06-10,CUST-5883,ergonomic office chair,furniture,chairs,east,Pennsylvania,4,200.87,0.2,$641.15,$-63.63,Standard Class,home office
+ORD-010663,28-Jun-2025,CUST-6737, Ergonomic Office Chair ,furniture,CHAIRS,west,California,3,198.0,0.18,487.87,-32.92, Standard Class ,Corporate
+ORD-010664,06/05/2025,CUST-4752,SMART LED MONITOR,TECHNOLOGY,Monitors,south, North Carolina ,4,$222.61,0.14,768.95,103.83, Standard Class ,Consumer
+ORD-010665,06/10/2025,CUST-5852,Wireless Keyboard,Technology, Accessories , South , Georgia ,3,72.95,0.18,180.22,$37.59, Second Class ,consumer
+ORD-010666,2025-06-13,CUST-6329,ERGONOMIC OFFICE CHAIR,FURNITURE, Chairs ,south,NORTH CAROLINA,5,192.56,0.2,$770.32,$-79.92,SECOND CLASS,Consumer
+ORD-010667,2025-06-21,CUST-8087,Wireless Keyboard,technology, Accessories ,east,Pennsylvania,2,75.88,0.16,127.38,29.84, Standard Class ,CONSUMER
+ORD-010668,06/02/2025,CUST-1506,desk organizer set, Office Supplies ,Storage,east,massachusetts,3,$35.47,0.13,92.15,32.37,standard class,CONSUMER
+ORD-010669,08-Jun-2025,CUST-7709,MODULAR BOOKSHELF,furniture,STORAGE, West ,WASHINGTON,1,$174.37,0.14,$149.61,-10.81,second class,CORPORATE
+ORD-010670,06/16/2025,CUST-4241,Desk Organizer Set,Office Supplies,Storage, East ,massachusetts,2,35.22,0.1,63.67,$24.06, Standard Class ,consumer
+ORD-010671,2025-06-30,CUST-8993,Smart LED Monitor,technology,monitors,south, Florida ,4,237.28,0.16,800.45,$93.08, Second Class ,Consumer
+ORD-010672,2025-06-18,CUST-8588,ERGONOMIC OFFICE CHAIR,furniture,chairs,east,New York,2,$203.39,0.15,345.36,-11.06,second class,Home Office
+ORD-010673,2025-06-19,CUST-2707, File Cabinet ,furniture,storage,CENTRAL,Illinois,5,202.89,0.14,875.63,-121.39, Standard Class ,home office
+ORD-010674,06/13/2025,CUST-6498, Smart LED Monitor ,TECHNOLOGY,monitors, Central ,texas,6,208.75,0.04,"$1,199.91",269.32,STANDARD CLASS,Corporate
+ORD-010675,03-Jun-2025,CUST-4595, Smart LED Monitor ,Technology,monitors, East , New York ,5,244.85,0.01,1209.39,300.45,standard class,Corporate
+ORD-010676,07/28/2025,CUST-2698,PREMIUM STANDING DESK, Furniture ,TABLES,WEST,WASHINGTON,2,439.96,0.12,776.75,16.81, Second Class ,consumer
+ORD-010677,07/01/2025,CUST-5037,smart led monitor,technology,monitors,south,TENNESSEE,2,225.51,0.1,404.69,67.96, Standard Class ,home office
+ORD-010678,2025-07-27,CUST-7890,Compact Printer, Technology , Printers ,central,minnesota,4,136.96,0.11,489.77,-19.53, Second Class ,Consumer
+ORD-010679,07/25/2025,CUST-7135,smart led monitor,TECHNOLOGY, Monitors ,West, Washington ,6,228.4,0.04,1309.01,291.12, Second Class , Consumer 
+ORD-010680,07/13/2025,CUST-2761,Smart LED Monitor,technology,monitors,WEST, Oregon ,5,235.96,0.12,1043.31,$167.84,SECOND CLASS,CONSUMER
+ORD-010681,07/31/2025,CUST-7811,Compact Printer,Technology,Printers,WEST,CALIFORNIA,2,133.65,0.06,250.55,0.93,STANDARD CLASS,Corporate
+ORD-010682,07/06/2025,CUST-2002,SMART LED MONITOR, Technology ,monitors,central, Minnesota ,2,$228.06,0.05,432.17,94.16,SECOND CLASS,Corporate
+ORD-010683,07/30/2025,CUST-1020, Ergonomic Office Chair ,furniture,CHAIRS, South ,GEORGIA,2,$203.20,0.15,344.15,$-12.97,Standard Class,Consumer
+ORD-010684,07/25/2025,CUST-2570, Ergonomic Office Chair ,furniture, Chairs ,EAST, Massachusetts ,5,185.99,0.09,$849.02,27.57, First Class ,CORPORATE
+ORD-010685,2025-07-07,CUST-7905,PREMIUM NOTEBOOK BUNDLE, Office Supplies ,paper,east, Pennsylvania ,5,18.02,0.11,80.62,31.18,Standard Class, Corporate 
+ORD-010686,2025-07-25,CUST-1624,led desk lamp, Furniture ,Lighting,WEST, Nevada ,0,47.61,0.09,86.29,16.95,second class, Consumer 
+ORD-010687,22-Jul-2025,CUST-2539, Premium Notebook Bundle ,OFFICE SUPPLIES, Paper , East ,NEW JERSEY,2,17.88,0.1,$32.07,$12.40, Standard Class ,CONSUMER
+ORD-010688,07/06/2025,CUST-6880,wireless keyboard,TECHNOLOGY,accessories, South ,tennessee,2,72.72,,$126.16,31.35, Standard Class ,consumer
+ORD-010689,05-Jul-2025,CUST-4579,ERGONOMIC OFFICE CHAIR,Furniture,Chairs, South ,tennessee,6,200.27,0.23,930.79,-126.52,standard class, Consumer 
+ORD-010690,26-Jul-2025,CUST-2355,INK CARTRIDGE PACK,OFFICE SUPPLIES,SUPPLIES,EAST, New Jersey ,1,60.56,0.08,55.62,$10.94,Second Class, Consumer 
+ORD-010691,07/14/2025,CUST-7440,Ink Cartridge Pack,OFFICE SUPPLIES,SUPPLIES,east,massachusetts,1,$57.01,0.05,53.89,11.62,standard class, Corporate 
+ORD-010692,18-Jul-2025,CUST-1497,wireless keyboard,TECHNOLOGY,Accessories,East, Massachusetts ,3,76.46,0.09,207.8,60.47,First Class,consumer
+ORD-010693,2025-07-19,CUST-9883,modular bookshelf,furniture, Storage ,Central,illinois,5,164.27,0.09,744.4,$-12.74,first class, Corporate 
+ORD-010694,2025-07-21,CUST-8049, Modular Bookshelf , Furniture , Storage ,SOUTH,Georgia,5,175.95,0.17,734.21,$-78.56,STANDARD CLASS,HOME OFFICE
+ORD-010695,07/30/2025,CUST-6202, Ergonomic Office Chair ,furniture,Chairs,EAST,NEW YORK,5,$216.41,0.11,964.49,21.36,Standard Class,HOME OFFICE
+ORD-010696,21-Jul-2025,CUST-9111,ergonomic office chair,FURNITURE,CHAIRS,SOUTH, Florida ,3,205.28,0.19,501.51,-39.18,First Class,corporate
+ORD-010697,07/11/2025,CUST-6485,wireless keyboard, Technology ,accessories, South ,GEORGIA,2,72.8,0.1,131.11,36.21,FIRST CLASS,Consumer
+ORD-010698,2025-07-17,CUST-6876,Modular Bookshelf, Furniture ,Storage,SOUTH, Florida ,4,181.13,0.1,653.41,-14.45,Standard Class,CONSUMER
+ORD-010699,15-Jul-2025,CUST-9598,WIRELESS KEYBOARD,TECHNOLOGY,ACCESSORIES,South, North Carolina ,1,68.61,0.13,59.93,14.95,FIRST CLASS, Home Office 
+ORD-010700,07/16/2025,CUST-2041, Wireless Keyboard ,Technology, Accessories , West ,oregon,2,$71.86,0.07,133.25,41.06,Second Class,HOME OFFICE
+ORD-010701,07/27/2025,CUST-4073,FILE CABINET,FURNITURE,storage,Central,COLORADO,4,228.11,0.08,$837.38,-51.03,Standard Class,Consumer
+ORD-010702,2025-07-31,CUST-9068,ergonomic office chair,FURNITURE,CHAIRS,West,nevada,2,194.69,0.17,323.91,-18.0,SECOND CLASS,corporate
+ORD-010703,2025-07-19,CUST-9877,ERGONOMIC OFFICE CHAIR,Furniture,chairs,central, Texas ,5,197.52,0.06,$928.86,64.76,First Class,corporate
+ORD-010704,07/23/2025,CUST-6460,Modular Bookshelf, Furniture ,STORAGE,west,Nevada,4,177.58,0.15,605.01,-47.55,SAME DAY,Home Office
+ORD-010705,2025-07-02,CUST-4017, Ergonomic Office Chair , Furniture ,Chairs,south,florida,4,202.65,0.14,694.94,-17.54,SECOND CLASS,CONSUMER
+ORD-010706,2025-07-03,CUST-3508, Premium Standing Desk , Furniture ,TABLES, South , Georgia ,5,$446.14,0.15,1898.69,-30.49,Standard Class,home office
+ORD-010707,07/17/2025,CUST-6030,Cordless Phone Dock,TECHNOLOGY, Accessories ,SOUTH,florida,1,66.73,0.17,55.44,7.2,STANDARD CLASS,Consumer
+ORD-010708,07/09/2025,CUST-4869,SMART LED MONITOR,technology,Monitors,SOUTH,FLORIDA,4,218.29,0.21,688.94,36.26,STANDARD CLASS,Consumer
+ORD-010709,07/30/2025,CUST-9503,SMART LED MONITOR,technology, Monitors ,east,NEW JERSEY,3,243.06,0.08,670.46,128.95,SECOND CLASS, Consumer 
+ORD-010710,07/08/2025,CUST-5659, Modular Bookshelf ,Furniture,storage,West,NEVADA,4,171.99,0.1,615.99,-17.59,SECOND CLASS,corporate
+ORD-010711,2025-07-07,CUST-7967, Desk Organizer Set ,OFFICE SUPPLIES,storage, East ,Pennsylvania,2,33.56,0.14,57.94,19.92,Standard Class,CORPORATE
+ORD-010712,2025-07-25,CUST-5688, Premium Standing Desk , Furniture ,Tables,east, New York ,2,467.93,0.09,853.23,46.83,First Class,Consumer
+ORD-010713,07/10/2025,CUST-3811,MODULAR BOOKSHELF,furniture,storage,south, Georgia ,2,$170.94,0.19,278.4,$-38.20,Standard Class, Consumer 
+ORD-010714,19-Jul-2025,CUST-4839,INK CARTRIDGE PACK,OFFICE SUPPLIES, Supplies , Central ,Minnesota,3,59.71,0.08,165.24,35.02,Same Day,home office
+ORD-010715,07/26/2025,CUST-6509,ERGONOMIC OFFICE CHAIR,Furniture,CHAIRS, West ,washington,3,$197.01,0.13,511.44,-6.99, Standard Class ,corporate
+ORD-010716,09-Aug-2025,CUST-5409,compact printer,technology,Printers,South,tennessee,3,132.28,0.13,343.74,-29.49,Same Day, Corporate 
+ORD-010717,2025-08-11,CUST-3765,LED DESK LAMP, Furniture ,LIGHTING,SOUTH,North Carolina,3,49.91,0.14,128.11,17.29,standard class,home office
+ORD-010718,2025-08-14,CUST-4993,WIRELESS KEYBOARD, Technology ,ACCESSORIES,South,tennessee,5,71.25,0.17,$297.11,$64.41,standard class,CONSUMER
+ORD-010719,08/09/2025,CUST-2627,premium standing desk, Furniture ,Tables, West ,WASHINGTON,5,490.67,0.11,2194.8,87.05,second class,Corporate
+ORD-010720,14-Aug-2025,CUST-1336, Smart LED Monitor ,TECHNOLOGY,MONITORS,SOUTH, Tennessee ,4,215.27,0.1,772.44,128.46,Second Class,CONSUMER
+ORD-010721,13-Aug-2025,CUST-5982,Wireless Keyboard,TECHNOLOGY,ACCESSORIES,EAST,New York,1,70.06,0.11,62.17,16.83,Same Day,corporate
+ORD-010722,08/27/2025,CUST-8628,premium standing desk, Furniture ,tables,south,Tennessee,3,445.3,0.2,1072.38,-83.06,STANDARD CLASS, Corporate 
+ORD-010723,08/08/2025,CUST-3855, Wireless Keyboard ,TECHNOLOGY,Accessories,East,New Jersey,4,79.51,0.1,$285.53,81.88,first class,consumer
+ORD-010724,08/28/2025,CUST-7804, Premium Standing Desk ,furniture,Tables,West, Oregon ,2,451.78,0.08,828.14,48.82, Standard Class ,Consumer
+ORD-010725,2025-08-22,CUST-8942, Wireless Keyboard ,Technology,ACCESSORIES,west,OREGON,4,75.54,0.1,270.52,77.44, Second Class ,Consumer
+ORD-010726,22-Aug-2025,CUST-7520, Modular Bookshelf ,FURNITURE,Storage, East ,PENNSYLVANIA,1,171.86,0.16,144.77,$-13.81,Standard Class, Consumer 
+ORD-010727,2025-08-21,CUST-2213,wireless keyboard,technology,Accessories, East ,new york,2,73.23,0.1,132.19,37.78,Standard Class,CORPORATE
+ORD-010728,2025-08-01,CUST-9462,Modular Bookshelf,furniture,storage,WEST,California,5,149.55,0.14,646.62,-49.95,STANDARD CLASS, Corporate 
+ORD-010729,11-Aug-2025,CUST-4776,INK CARTRIDGE PACK,OFFICE SUPPLIES,Supplies,EAST,New York,1,$60.69,0.14,51.92,$7.15,standard class,Consumer
+ORD-010730,02-Aug-2025,CUST-2696,Premium Standing Desk,FURNITURE,tables,south, Tennessee ,2,449.23,0.17,744.89,$-31.84, Standard Class ,Consumer
+ORD-010731,08/03/2025,CUST-5571, Modular Bookshelf ,furniture, Storage ,SOUTH,Tennessee,4,172.84,0.24,524.68,$-114.97, Same Day ,corporate
+ORD-010732,2025-08-13,CUST-4672,PREMIUM NOTEBOOK BUNDLE,Office Supplies, Paper ,WEST,oregon,2,18.03,0.06,34.05,$14.87,STANDARD CLASS,consumer
+ORD-010733,2025-08-28,CUST-1037,PREMIUM STANDING DESK, Furniture ,TABLES, West , California ,7,$444.81,0.19,2523.35,-164.28,STANDARD CLASS,consumer
+ORD-010734,08/28/2025,CUST-6841, Smart LED Monitor ,Technology, Monitors ,west,Nevada,2,229.91,0.08,422.23,80.76,First Class,Consumer
+ORD-010735,31-Aug-2025,CUST-4949,Desk Organizer Set, Office Supplies ,STORAGE,WEST,OREGON,2,36.04,0.11,$64.44,24.64,First Class,corporate
+ORD-010736,2025-08-08,CUST-8023,premium notebook bundle,Office Supplies, Paper ,East,MASSACHUSETTS,5,$18.00,0.16,75.99,26.59,second class,Consumer
+ORD-010737,2025-08-23,CUST-6799,PREMIUM STANDING DESK,Furniture,Tables,central,Texas,6,453.86,0.08,2511.11,165.3,Standard Class,Corporate
+ORD-010738,08/04/2025,CUST-5514,SMART LED MONITOR,Technology,MONITORS, East , New Jersey ,2,239.38,0.09,433.82,78.11,standard class,Corporate
+ORD-010739,06-Aug-2025,CUST-8884, Premium Notebook Bundle ,OFFICE SUPPLIES,paper,EAST,New York,5,19.88,0.12,87.74,34.49,FIRST CLASS,Corporate
+ORD-010740,28-Aug-2025,CUST-6047,wireless keyboard,Technology, Accessories ,West, Nevada ,5,77.29,0.09,$352.57,106.08,Standard Class, Corporate 
+ORD-010741,08/06/2025,CUST-4603, Ergonomic Office Chair , Furniture , Chairs , East ,NEW YORK,6,201.42,0.24,923.24,-136.56,Second Class,Consumer
+ORD-010742,2025-08-16,CUST-2761,smart led monitor,TECHNOLOGY, Monitors ,WEST,Oregon,4,$238.95,0.09,867.86,158.88,STANDARD CLASS,Consumer
+ORD-010743,08/27/2025,CUST-8075,Ergonomic Office Chair, Furniture , Chairs , West ,california,3,194.71,0.05,552.04,39.14,SAME DAY, Consumer 
+ORD-010744,26-Aug-2025,CUST-1564, Premium Standing Desk ,Furniture,Tables, South ,Georgia,5,464.81,0.22,1803.15,-202.56,standard class,home office
+ORD-010745,08/11/2025,CUST-3628, Wireless Keyboard ,technology,accessories,central, Illinois ,2,75.16,0.07,139.52,44.23,SECOND CLASS, Consumer 
+ORD-010746,31-Aug-2025,CUST-6528, Modular Bookshelf ,furniture,storage,WEST,NEVADA,2,166.51,0.12,291.64,$-15.84,standard class,Consumer
+ORD-010747,30-Aug-2025,CUST-7494, Desk Organizer Set ,Office Supplies,STORAGE,CENTRAL, Illinois ,1,$34.18,0.0,34.05,15.44,First Class, Home Office 
+ORD-010748,05-Aug-2025,CUST-5300,smart led monitor,technology,Monitors,south, Florida ,4,239.0,0.14,822.91,110.58,STANDARD CLASS,corporate
+ORD-010749,08/25/2025,CUST-9642, Smart LED Monitor ,technology,monitors,West,WASHINGTON,2,$234.05,0.08,432.2,$84.76,SECOND CLASS,Home Office
+ORD-010750,22-Aug-2025,CUST-7892,smart led monitor,Technology, Monitors ,west, New Jersey ,5,225.13,0.1,1009.28,$171.29,Second Class,Consumer
+ORD-010751,08/27/2025,CUST-2115, Smart LED Monitor ,TECHNOLOGY,MONITORS,west, Nevada ,3,219.42,0.07,612.55,123.0,SECOND CLASS,Corporate
+ORD-010752,08/27/2025,CUST-3466,SMART LED MONITOR,technology,monitors, West ,OREGON,4,215.13,0.1,777.65,137.28, Standard Class , Home Office 
+ORD-010753,2025-08-27,CUST-2107, Ergonomic Office Chair ,furniture,CHAIRS,east,pennsylvania,3,195.33,0.15,499.03,-16.27, Same Day ,Corporate
+ORD-010754,2025-08-27,CUST-5730,SMART LED MONITOR,TECHNOLOGY,MONITORS, South ,Georgia,4,$240.21,0.14,824.27,$108.47,second class,Corporate
+ORD-010755,2025-08-21,CUST-6762,wireless keyboard, Technology ,ACCESSORIES, West ,OREGON,4,72.0,0.11,255.9,71.19,standard class,Home Office
+ORD-010756,2025-08-22,CUST-9371,PREMIUM NOTEBOOK BUNDLE,office supplies, Paper , Central ,MINNESOTA,1,18.39,0.1,16.63,$7.29,SAME DAY,corporate
+ORD-010757,07-Aug-2025,CUST-5710, Wireless Keyboard , Technology ,Accessories,CENTRAL,illinois,3,75.17,0.12,199.06,56.1,standard class,home office
+ORD-010758,30-Sep-2025,CUST-4804,Ergonomic Office Chair,Furniture,chairs, East , New Jersey ,5,217.91,0.12,960.18,11.06,STANDARD CLASS,consumer
+ORD-010759,26-Sep-2025,CUST-1910,modular bookshelf,FURNITURE,Storage,west, Washington ,1,$167.55,0.11,$148.89,-5.73,Same Day,Consumer
+ORD-010760,05-Sep-2025,CUST-8080,DESK ORGANIZER SET,office supplies,STORAGE,south, Florida ,3,33.71,0.16,85.08,26.33,STANDARD CLASS, Consumer 
+ORD-010761,2025-09-24,CUST-2451, Ergonomic Office Chair ,furniture,CHAIRS,Central, Minnesota ,5,187.25,0.1,839.44,$16.45,Standard Class,corporate
+ORD-010762,09/11/2025,CUST-7745,COMPACT PRINTER, Technology ,PRINTERS,Central,ILLINOIS,1,147.33,0.04,140.94,4.49,FIRST CLASS,CONSUMER
+ORD-010763,13-Sep-2025,CUST-7318,SMART LED MONITOR, Technology ,monitors,south,TENNESSEE,4,229.85,0.16,774.24,88.26,SECOND CLASS,corporate
+ORD-010764,09/25/2025,CUST-1129, Smart LED Monitor , Technology , Monitors ,West, Nevada ,2,229.77,0.12,405.76,64.5,standard class,CONSUMER
+ORD-010765,2025-09-06,CUST-9088,COMPACT PRINTER,technology, Printers ,west, California ,4,140.48,0.03,543.6,20.33, First Class ,CORPORATE
+ORD-010766,03-Sep-2025,CUST-1857,SMART LED MONITOR,technology,MONITORS, East , New York ,4,233.32,0.13,814.02,120.05, Second Class ,CONSUMER
+ORD-010767,2025-09-23,CUST-5279,SMART LED MONITOR,Technology,Monitors,central, Minnesota ,4,226.77,0.11,805.04,$132.72,Standard Class, Corporate 
+ORD-010768,09/03/2025,CUST-4619,ink cartridge pack, Office Supplies ,supplies,South, Florida ,5,56.41,0.07,$262.74,50.96,STANDARD CLASS, Home Office 
+ORD-010769,23-Sep-2025,CUST-3499,premium notebook bundle,Office Supplies,PAPER,WEST,oregon,4,17.43,0.08,$63.94,$26.55,Same Day, Consumer 
+ORD-010770,01-Sep-2025,CUST-6840,smart led monitor,Technology,MONITORS,Central, Illinois ,6,228.81,0.13,1200.31,183.04,Standard Class, Consumer 
+ORD-010771,2025-09-21,CUST-7955,Wireless Keyboard,Technology,accessories,CENTRAL, Illinois ,1,73.71,0.08,$68.06,21.27,SECOND CLASS, Consumer 
+ORD-010772,05-Sep-2025,CUST-7660,WIRELESS KEYBOARD,TECHNOLOGY,accessories,EAST,MASSACHUSETTS,4,74.32,0.08,272.63,81.22,STANDARD CLASS,CORPORATE
+ORD-010773,30-Sep-2025,CUST-1423, Wireless Keyboard ,technology,Accessories, South ,Tennessee,1,75.65,0.19,61.08,11.95,second class,CONSUMER
+ORD-010774,2025-09-08,CUST-4970,wireless keyboard,technology,ACCESSORIES, West , Washington ,5,74.05,0.07,345.94,$108.98,STANDARD CLASS,CORPORATE
+ORD-010775,2025-09-17,CUST-2584,premium notebook bundle,Office Supplies, Paper ,Central,minnesota,4,19.84,0.03,77.33,37.6,first class,corporate
+ORD-010776,30-Sep-2025,CUST-7745,premium standing desk,FURNITURE,TABLES, Central ,texas,3,473.95,0.07,"$1,319.11",96.79, First Class ,Corporate
+ORD-010777,27-Sep-2025,CUST-7382,COMPACT PRINTER,technology,PRINTERS, Central , Texas ,1,138.91,0.07,128.7,-0.34, Standard Class ,consumer
+ORD-010778,2025-09-04,CUST-9825,LED Desk Lamp,FURNITURE,Lighting,west,california,4,50.1,0.11,177.61,32.56,SECOND CLASS,Corporate
+ORD-010779,2025-09-09,CUST-6459,ergonomic office chair, Furniture ,Chairs, East ,pennsylvania,4,184.14,0.09,670.62,19.37, First Class ,CONSUMER
+ORD-010780,14-Sep-2025,CUST-2716, Compact Printer ,technology, Printers ,south,tennessee,3,133.14,0.05,379.7,4.21,SECOND CLASS,corporate
+ORD-010781,27-Sep-2025,CUST-2908,SMART LED MONITOR,TECHNOLOGY,monitors,central,Colorado,7,228.34,0.08,1476.41,291.98,standard class,Corporate
+ORD-010782,26-Sep-2025,CUST-6939,ERGONOMIC OFFICE CHAIR, Furniture ,Chairs,East,Massachusetts,5,210.2,0.19,847.78,$-70.54, Same Day ,Home Office
+ORD-010783,09/27/2025,CUST-7481,Premium Standing Desk,FURNITURE, Tables ,West,nevada,3,$438.89,0.09,1198.63,$61.37, Standard Class ,corporate
+ORD-010784,2025-09-08,CUST-1974,PREMIUM STANDING DESK,Furniture,TABLES, South , North Carolina ,3,429.25,0.24,982.9,-133.05,STANDARD CLASS,CONSUMER
+ORD-010785,09/12/2025,CUST-9015,Smart LED Monitor,technology, Monitors ,south,Georgia,3,246.52,0.13,645.52,95.04,Standard Class, Consumer 
+ORD-010786,09/16/2025,CUST-1412, Wireless Keyboard ,TECHNOLOGY,ACCESSORIES, South ,Georgia,1,72.25,0.14,62.01,14.88, Standard Class ,Home Office
+ORD-010787,09/30/2025,CUST-4854, Compact Printer ,Technology,Printers,central,colorado,5,129.96,0.02,639.44,33.6,STANDARD CLASS,CORPORATE
+ORD-010788,2025-09-19,CUST-7728,wireless keyboard,TECHNOLOGY,ACCESSORIES,WEST,OREGON,5,72.39,0.05,$343.07,$111.04,Second Class,corporate
+ORD-010789,09/15/2025,CUST-3018,INK CARTRIDGE PACK,office supplies, Supplies ,Central,illinois,2,58.68,0.08,$108.15,22.74,Standard Class,Corporate
+ORD-010790,09/01/2025,CUST-3456, Compact Printer ,Technology,Printers,CENTRAL,colorado,1,137.25,0.01,135.83,8.24,Same Day,CONSUMER
+ORD-010791,09/22/2025,CUST-6450,ink cartridge pack,office supplies,supplies,south,florida,4,55.4,0.15,188.95,$22.26,Standard Class, Consumer 
+ORD-010792,09/06/2025,CUST-1300,Compact Printer,technology,printers,West,Nevada,3,131.08,0.07,364.39,-3.26,second class,Corporate
+ORD-010793,09/18/2025,CUST-3640,Compact Printer,TECHNOLOGY, Printers ,east, New York ,2,140.07,0.04,267.91,6.39, Standard Class ,Corporate
+ORD-010794,07-Sep-2025,CUST-4753, Premium Notebook Bundle ,Office Supplies, Paper ,EAST, New York ,1,17.51,0.13,15.2,5.52,Standard Class,Corporate
+ORD-010795,2025-09-24,CUST-8379,ergonomic office chair,FURNITURE,CHAIRS,WEST,CALIFORNIA,5,196.67,0.15,839.65,$-23.03,Standard Class,Home Office
+ORD-010796,2025-09-15,CUST-6649,smart led monitor,technology,MONITORS,Central,MINNESOTA,5,239.55,0.01,1182.74,296.37,Standard Class, Home Office 
+ORD-010797,10/12/2025,CUST-6612, Ergonomic Office Chair ,furniture,Chairs,South,tennessee,3,$192.60,0.22,$451.48,-58.76,Same Day,corporate
+ORD-010798,2025-10-22,CUST-6044, Smart LED Monitor ,technology, Monitors ,east,NEW YORK,3,231.23,0.09,632.77,116.81,Second Class,corporate
+ORD-010799,2025-10-25,CUST-1631, Ergonomic Office Chair ,furniture,chairs,east,pennsylvania,3,191.27,0.12,507.7,2.15, First Class ,Corporate
+ORD-010800,2025-10-07,CUST-5501,MODULAR BOOKSHELF, Furniture ,STORAGE,West,OREGON,3,169.43,0.11,454.1,-14.54,First Class,CORPORATE
+ORD-010801,10/21/2025,CUST-6052,led desk lamp,FURNITURE,LIGHTING,SOUTH,florida,3,48.3,0.28,$104.30,$-3.43,FIRST CLASS, Home Office 
+ORD-010802,2025-10-25,CUST-6503,smart led monitor,TECHNOLOGY,monitors,west,Nevada,5,229.52,0.12,"$1,011.82",159.56,FIRST CLASS,Consumer
+ORD-010803,10/06/2025,CUST-9491,SMART LED MONITOR,TECHNOLOGY,monitors,WEST, Oregon ,6,$227.67,0.07,1271.13,256.4,SECOND CLASS,CONSUMER
+ORD-010804,2025-10-17,CUST-7447,COMPACT PRINTER,Technology, Printers ,WEST,Washington,2,134.79,0.09,246.29,$-5.34,STANDARD CLASS,corporate
+ORD-010805,23-Oct-2025,CUST-1119, Smart LED Monitor , Technology ,MONITORS,WEST,california,5,218.72,0.08,1008.16,194.77,Standard Class,consumer
+ORD-010806,20-Oct-2025,,Modular Bookshelf,electronics,storage, East ,new york,5,173.57,0.15,740.2,$-59.95,STANDARD CLASS,Consumer
+ORD-010807,2025-10-04,CUST-8894,WIRELESS KEYBOARD,TECHNOLOGY,ACCESSORIES,West,WASHINGTON,4,76.93,0.1,277.76,$81.41,STANDARD CLASS, Consumer 
+ORD-010808,2025-10-31,CUST-2570,desk organizer set, Office Supplies ,STORAGE,east,New Jersey,1,34.75,0.08,31.95,12.37, First Class , Corporate 
+ORD-010809,19-Oct-2025,CUST-8047,File Cabinet,Furniture,STORAGE,WEST,Washington,3,238.94,0.14,618.3,$-78.44,first class,Home Office
+ORD-010810,2025-10-27,CUST-7978, Premium Standing Desk ,furniture,tables,WEST,CALIFORNIA,2,450.3,0.12,794.94,18.04,first class,CONSUMER
+ORD-010811,10/06/2025,CUST-9066,Ergonomic Office Chair,FURNITURE,CHAIRS,EAST,NEW JERSEY,4,189.55,0.15,644.91,-23.66,STANDARD CLASS, Consumer 
+ORD-010812,26-Oct-2025,CUST-9427, Modular Bookshelf ,Furniture,STORAGE, Central , Minnesota ,2,171.72,0.11,$305.64,-9.89,FIRST CLASS,Home Office
+ORD-010813,2025-10-01,CUST-9979,ERGONOMIC OFFICE CHAIR,furniture,Chairs,east,New Jersey,3,$199.86,0.1,538.22,12.06, Second Class ,Home Office
+ORD-010814,10/11/2025,CUST-2076,smart led monitor, Technology ,Monitors,west,OREGON,6,222.24,0.06,1252.77,261.48,standard class,consumer
+ORD-010815,2025-10-05,CUST-6418,Premium Notebook Bundle,Office Supplies, Paper , Central ,texas,4,$18.01,0.04,$69.27,32.54,STANDARD CLASS, Corporate 
+ORD-010816,10/07/2025,CUST-6371,ergonomic office chair,FURNITURE,chairs,WEST,Washington,4,187.26,0.04,717.32,57.27,STANDARD CLASS, Consumer 
+ORD-010817,10/21/2025,CUST-5430,Smart LED Monitor, Technology ,monitors,SOUTH,north carolina,5,234.04,0.14,1003.59,131.04,First Class,consumer
+ORD-010818,10/23/2025,CUST-1419,ERGONOMIC OFFICE CHAIR,FURNITURE, Chairs ,WEST,oregon,4,191.12,0.09,$697.24,24.84, First Class ,corporate
+ORD-010819,24-Oct-2025,CUST-4606, Modular Bookshelf ,FURNITURE,STORAGE, East ,PENNSYLVANIA,3,166.29,0.13,$436.46,-25.09,Standard Class,consumer
+ORD-010820,10/06/2025,CUST-9580,Compact Printer,technology,Printers,WEST,California,5,138.99,0.13,606.18,-41.38, Standard Class ,Consumer
+ORD-010821,10/24/2025,CUST-5806,Wireless Keyboard,technology, Accessories ,EAST,NEW YORK,3,75.03,0.08,206.91,$62.10,STANDARD CLASS,consumer
+ORD-010822,10/09/2025,CUST-2759,Compact Printer,technology, Printers ,west,washington,3,128.79,0.13,337.34,-24.27, Same Day , Consumer 
+ORD-010823,2025-10-11,CUST-3202,Premium Standing Desk,Furniture,TABLES,central, Colorado ,4,406.69,0.07,1505.47,$96.34,standard class,consumer
+ORD-010824,10/25/2025,CUST-8031, Wireless Keyboard , Technology ,accessories,SOUTH,FLORIDA,4,72.73,0.23,224.95,35.32,Second Class, Corporate 
+ORD-010825,20-Oct-2025,CUST-2758, Smart LED Monitor ,Technology, Monitors ,WEST, Nevada ,5,220.22,0.07,1020.17,201.38,First Class,corporate
+ORD-010826,10/25/2025,CUST-5679, File Cabinet ,furniture, Storage ,central,Texas,4,223.79,0.11,799.82,-73.04,SAME DAY, Corporate 
+ORD-010827,10/01/2025,CUST-5967,smart led monitor,TECHNOLOGY,monitors,central,,4,224.95,0.09,$821.92,154.87,Second Class,Corporate
+ORD-010828,2025-10-04,CUST-7571,ergonomic office chair, Furniture ,chairs,West,Oregon,5,200.19,0.13,868.21,-8.56, Standard Class ,Consumer
+ORD-010829,10/22/2025,CUST-2269,wireless keyboard,TECHNOLOGY, Accessories ,west,California,3,$73.31,0.11,195.81,54.95,Standard Class,HOME OFFICE
+ORD-010830,2025-10-02,CUST-3667,LED Desk Lamp,Furniture,LIGHTING,EAST,Massachusetts,5,44.6,0.12,196.15,30.93,standard class,CORPORATE
+ORD-010831,2025-10-24,CUST-7278,desk organizer set,OFFICE SUPPLIES,storage,central,Colorado,2,33.06,0.07,$61.68,25.54, Second Class ,Corporate
+ORD-010832,21-Oct-2025,CUST-7597,compact printer,technology,PRINTERS,West, Washington ,5,$135.30,0.08,$620.18,-11.15,standard class,Corporate
+ORD-010833,10-Oct-2025,CUST-6781, Smart LED Monitor ,Technology, Monitors , South , Florida ,2,231.22,0.13,404.04,59.09,STANDARD CLASS,CONSUMER
+ORD-010834,2025-10-26,CUST-7989,ink cartridge pack,Office Supplies,supplies,west, California ,2,$57.08,0.04,109.67,$25.63,first class, Consumer 
+ORD-010835,14-Oct-2025,CUST-8411,DESK ORGANIZER SET, Office Supplies ,storage,WEST,Nevada,2,$33.10,0.07,61.77,24.8,second class,Consumer
+ORD-010836,2025-10-24,CUST-3486,wireless keyboard,TECHNOLOGY, Accessories ,WEST,California,4,75.3,0.06,282.47,89.96, Standard Class ,CONSUMER
+ORD-010837,25-Oct-2025,CUST-1023, Ergonomic Office Chair ,Furniture,chairs,CENTRAL,MINNESOTA,5,$195.44,0.11,873.95,18.21, Standard Class ,corporate
+ORD-010838,10/05/2025,CUST-9536, Compact Printer ,technology,PRINTERS,WEST,Nevada,4,$148.54,0.09,543.58,-8.07,SAME DAY,HOME OFFICE
+ORD-010839,10/10/2025,CUST-6911, Cordless Phone Dock , Technology ,accessories, South , Georgia ,4,65.69,0.14,$225.86,35.63,Standard Class,CORPORATE
+ORD-010840,2025-10-20,CUST-9437,SMART LED MONITOR,Technology,monitors,WEST, Oregon ,5,232.78,0.08,"$1,072.11",208.09,STANDARD CLASS,home office
+ORD-010841,2025-10-31,CUST-3384,DESK ORGANIZER SET,Office Supplies,Storage,West,Oregon,4,35.53,0.1,128.08,49.47, Standard Class , Home Office 
+ORD-010842,10/28/2025,CUST-9112,Premium Standing Desk,Furniture,TABLES,West, California ,5,444.14,0.12,1956.56,39.6, Standard Class ,Consumer
+ORD-010843,19-Nov-2025,CUST-4838,Ergonomic Office Chair, Furniture , Chairs ,WEST,california,5,217.79,0.13,951.68,4.53,First Class,Consumer
+ORD-010844,11/13/2025,CUST-5408, Compact Printer ,TECHNOLOGY, Printers , Central ,Texas,2,137.79,0.04,264.16,8.05,standard class,corporate
+ORD-010845,09-Nov-2025,CUST-3552,SMART LED MONITOR,TECHNOLOGY, Monitors ,EAST,New York,4,$237.12,0.1,856.6,151.7, Standard Class ,home office
+ORD-010846,03-Nov-2025,CUST-7680,Compact Printer, Technology ,Printers,west,california,5,134.94,0.11,600.48,-29.27,second class,consumer
+ORD-010847,2025-11-25,CUST-3361,wireless keyboard, Technology , Accessories ,central,colorado,1,72.12,0.06,67.62,21.77,Standard Class, Corporate 
+ORD-010848,11/28/2025,CUST-8947,premium standing desk,FURNITURE,TABLES, East ,PENNSYLVANIA,7,444.49,0.1,"$2,810.27",122.41,FIRST CLASS,Corporate
+ORD-010849,2025-11-02,CUST-8248,ERGONOMIC OFFICE CHAIR,Furniture,Chairs,South,north carolina,7,195.32,0.2,1098.94,-106.87,STANDARD CLASS,Consumer
+ORD-010850,11/14/2025,CUST-4808,smart led monitor, Technology , Monitors ,Central,minnesota,0,235.74,0.01,929.26,231.12,Standard Class,CORPORATE
+ORD-010851,11/07/2025,CUST-8401,desk organizer set, Office Supplies ,STORAGE, East , New Jersey ,3,34.96,0.13,91.68,$32.64, First Class ,CONSUMER
+ORD-010852,11/25/2025,CUST-7154,Wireless Keyboard,TECHNOLOGY,accessories,East,pennsylvania,2,71.46,0.09,130.03,$37.71,standard class,consumer
+ORD-010853,11/21/2025,CUST-9779,SMART LED MONITOR,technology,monitors,West, Oregon ,3,215.39,0.07,600.9,120.07,STANDARD CLASS,Home Office
+ORD-010854,11/05/2025,CUST-3190, LED Desk Lamp ,Furniture,Lighting,WEST, Oregon ,1,47.77,0.08,44.03,9.26,standard class,consumer
+ORD-010855,2025-11-01,CUST-6948, LED Desk Lamp ,electronics,LIGHTING,EAST, Massachusetts ,1,$46.59,0.14,40.14,5.82,Standard Class,CORPORATE
+ORD-010856,2025-11-14,CUST-7558,modular bookshelf,furniture,Storage,South, Tennessee ,5,164.98,0.21,655.59,-110.59, Second Class , Corporate 
+ORD-010857,17-Nov-2025,CUST-1315, Desk Organizer Set ,Office Supplies, Storage ,east,Pennsylvania,3,32.93,0.07,91.46,35.34,FIRST CLASS,consumer
+ORD-010858,11/13/2025,CUST-8520,DESK ORGANIZER SET,OFFICE SUPPLIES,Storage, West ,washington,4,33.2,0.02,129.6,55.46,STANDARD CLASS,Consumer
+ORD-010859,11/06/2025,CUST-6885,cordless phone dock, Technology ,Accessories,south, Georgia ,5,$65.70,0.1,297.16,$59.36,SECOND CLASS,consumer
+ORD-010860,21-Nov-2025,CUST-5021, Ergonomic Office Chair ,Furniture,Chairs,SOUTH,FLORIDA,4,194.72,0.18,640.13,-46.98,standard class,consumer
+ORD-010861,15-Nov-2025,CUST-7217,Compact Printer,technology, Printers ,South,Georgia,5,144.75,0.14,622.62,-54.28,STANDARD CLASS,consumer
+ORD-010862,11/05/2025,CUST-1505,WIRELESS KEYBOARD, Technology ,accessories,west,Nevada,5,79.63,0.06,375.47,122.05,Standard Class,Consumer
+ORD-010863,2025-11-06,CUST-9804,PREMIUM STANDING DESK,Furniture,Tables,central,ILLINOIS,3,431.42,0.15,1094.69,-23.01,first class,consumer
+ORD-010864,11/25/2025,CUST-6044, Ergonomic Office Chair ,Furniture,CHAIRS,SOUTH, Florida ,1,198.23,0.16,166.36,-8.22,STANDARD CLASS,consumer
+ORD-010865,11/19/2025,CUST-4466,PREMIUM NOTEBOOK BUNDLE,Office Supplies,Paper, West ,NEVADA,5,17.26,0.04,83.01,36.63,Second Class,Corporate
+ORD-010866,10-Nov-2025,CUST-4397,MODULAR BOOKSHELF,furniture,Storage,east,Massachusetts,3,$165.86,0.11,443.04,-17.4,Standard Class,Consumer
+ORD-010867,11/07/2025,CUST-4659,Ergonomic Office Chair,Furniture, Chairs ,SOUTH,Florida,5,196.86,0.18,805.14,$-62.31,First Class,CONSUMER
+ORD-010868,11/03/2025,CUST-2260,ergonomic office chair, Furniture , Chairs ,WEST,nevada,5,208.01,0.07,965.57,57.53,Second Class,CONSUMER
+ORD-010869,2025-11-01,CUST-3379, Cordless Phone Dock ,TECHNOLOGY,ACCESSORIES,Central, Minnesota ,5,62.89,0.07,293.59,71.04,SAME DAY, Consumer 
+ORD-010870,11/24/2025,CUST-5046,WIRELESS KEYBOARD, Technology ,ACCESSORIES,central, Texas ,1,74.17,0.06,69.46,22.4,STANDARD CLASS,Corporate
+ORD-010871,15-Nov-2025,CUST-5412,Cordless Phone Dock,Technology,accessories, West ,oregon,1,67.44,0.07,62.53,$14.61,Standard Class,Corporate
+ORD-010872,20-Nov-2025,CUST-5589,SMART LED MONITOR,technology, Monitors ,south,north carolina,5,225.08,0.11,1005.78,165.49,standard class, Consumer 
+ORD-010873,02-Nov-2025,CUST-2413, Premium Notebook Bundle , Office Supplies ,PAPER, Central ,illinois,2,17.71,0.1,31.86,13.75, Standard Class , Consumer 
+ORD-010874,11/25/2025,CUST-1825,MODULAR BOOKSHELF,Furniture, Storage ,Central,Minnesota,1,164.42,0.07,152.55,0.99,standard class, Consumer 
+ORD-010875,2025-11-21,CUST-6855, Ergonomic Office Chair , Furniture ,Chairs, Central ,TEXAS,4,197.25,0.11,703.99,13.59,second class,home office
+ORD-010876,13-Nov-2025,CUST-8139,Premium Standing Desk, Furniture ,TABLES, West , Washington ,4,$438.39,0.15,1482.06,$-32.66,Standard Class,home office
+ORD-010877,2025-11-07,CUST-5398,COMPACT PRINTER,Technology,printers,,washington,1,129.89,0.13,113.27,-8.24,Second Class,Consumer
+ORD-010878,2025-11-28,CUST-8195, Ergonomic Office Chair ,Furniture, Chairs ,West,OREGON,5,200.39,0.11,893.15,15.58,Second Class,consumer
+ORD-010879,11/14/2025,CUST-3976, Premium Standing Desk ,furniture,tables,south,GEORGIA,7,467.3,0.23,"$2,534.32",-287.99,First Class,Corporate
+ORD-010880,2025-11-13,CUST-2378,ergonomic office chair,furniture,CHAIRS,east,New Jersey,3,199.41,0.13,$520.83,-4.27, Standard Class ,CORPORATE
+ORD-010881,09-Nov-2025,CUST-2087,WIRELESS KEYBOARD,TECHNOLOGY,Accessories, West ,California,3,73.15,0.11,194.36,$53.79, Standard Class ,Consumer
+ORD-010882,05-Nov-2025,CUST-8330,wireless keyboard, Technology ,Accessories, Central ,illinois,3,74.25,0.05,210.96,$69.64,Standard Class,CONSUMER
+ORD-010883,11/08/2025,CUST-5693,file cabinet,furniture,Storage, West ,CALIFORNIA,4,211.78,0.08,776.57,-54.64, Standard Class ,Consumer
+ORD-010884,11/24/2025,CUST-7754,smart led monitor,TECHNOLOGY,MONITORS,Central,Illinois,2,237.26,0.06,$447.03,95.77, Standard Class , Consumer 
+ORD-010885,11/17/2025,CUST-1953,Compact Printer,TECHNOLOGY, Printers ,SOUTH,North Carolina,1,$138.28,0.14,119.21,-10.48, Standard Class ,Corporate
+ORD-010886,11/28/2025,CUST-2483,Wireless Keyboard,technology,ACCESSORIES,South,NORTH CAROLINA,1,73.1,0.15,62.38,14.75, Standard Class ,home office
+ORD-010887,2025-11-26,CUST-6427, Smart LED Monitor ,technology,MONITORS,South,Georgia,1,$234.04,0.17,194.17,19.67,second class,HOME OFFICE
+ORD-010888,2025-11-04,CUST-2666,MODULAR BOOKSHELF,furniture,STORAGE, East , New York ,1,177.25,0.13,155.03,-8.13,standard class,home office
+ORD-010889,20-Nov-2025,CUST-6922,Ergonomic Office Chair,FURNITURE, Chairs ,West,NEVADA,4,189.88,0.1,$681.40,12.98,STANDARD CLASS, Corporate 
+ORD-010890,2025-11-06,CUST-1954,Ergonomic Office Chair, Furniture ,CHAIRS,SOUTH,Georgia,4,207.51,0.08,763.72,35.7, Standard Class , Consumer 
+ORD-010891,13-Nov-2025,CUST-3975,WIRELESS KEYBOARD,TECHNOLOGY,ACCESSORIES, Central , Texas ,4,77.2,0.06,$291.11,95.72, Standard Class ,CORPORATE
+ORD-010892,2025-12-27,CUST-1405,Ink Cartridge Pack,Office Supplies,supplies,east, New Jersey ,1,$60.93,0.12,$53.66,8.73,First Class,consumer
+ORD-010893,12/20/2025,CUST-3391,Smart LED Monitor,Technology,Monitors,west, California ,6,211.83,0.08,1174.57,228.24,standard class, Corporate 
+ORD-010894,31-Dec-2025,, Smart LED Monitor ,technology,MONITORS,Central,COLORADO,2,224.52,0.05,428.5,95.59,Standard Class,Corporate
+ORD-010895,2025-12-26,CUST-2171,Wireless Keyboard,technology,ACCESSORIES,South,north carolina,3,$71.15,0.1,192.2,52.75,standard class,consumer
+ORD-010896,12/04/2025,CUST-4122,ERGONOMIC OFFICE CHAIR,Furniture,Chairs,West,Oregon,4,210.74,0.08,$775.09,39.92, Standard Class , Consumer 
+ORD-010897,12/15/2025,CUST-9817,,office supplies,Storage,WEST,california,3,33.19,0.09,90.68,35.09,Standard Class,Corporate
+ORD-010898,2025-12-22,CUST-9144, Wireless Keyboard ,TECHNOLOGY,accessories,west,california,1,69.12,0.02,67.88,23.4,second class,CONSUMER
+ORD-010899,12/16/2025,CUST-7959, Ergonomic Office Chair ,Furniture, Chairs ,SOUTH,north carolina,2,$190.61,0.15,322.95,-14.02,SECOND CLASS,CORPORATE
+ORD-010900,12/13/2025,CUST-6662,ink cartridge pack,Office Supplies,SUPPLIES, West ,oregon,2,60.07,0.0,120.15,32.05,Standard Class,CONSUMER
+ORD-010901,30-Dec-2025,CUST-4321,Ergonomic Office Chair,furniture,CHAIRS, East ,massachusetts,4,202.44,0.14,698.66,-11.16,Second Class,HOME OFFICE
+ORD-010902,2025-12-08,CUST-6417, Smart LED Monitor ,TECHNOLOGY,monitors,south,NORTH CAROLINA,5,243.53,0.19,988.54,$81.83, Second Class ,consumer
+ORD-010903,2025-12-24,CUST-1323,premium standing desk,furniture,Tables,CENTRAL,illinois,4,$434.09,0.07,1609.22,110.2, Second Class ,consumer
+ORD-010904,2025-12-16,CUST-9189,WIRELESS KEYBOARD,technology,Accessories, South ,North Carolina,4,74.55,0.17,247.8,53.85,First Class,home office
+ORD-010905,11-Dec-2025,CUST-7550,smart led monitor,Technology,MONITORS,West,WASHINGTON,5,$217.67,0.07,1013.55,203.96,First Class,CORPORATE
+ORD-010906,2025-12-10,CUST-6424,desk organizer set,OFFICE SUPPLIES,storage,WEST,Washington,4,33.97,0.12,120.18,44.56,standard class,CORPORATE
+ORD-010907,2025-12-06,CUST-4415, Premium Notebook Bundle ,OFFICE SUPPLIES,Paper, East , New York ,5,17.5,0.12,77.27,28.91,STANDARD CLASS, Corporate 
+ORD-010908,2025-12-03,CUST-4743,wireless keyboard,TECHNOLOGY,accessories,WEST,OREGON,1,72.63,0.07,67.43,20.88,second class,CONSUMER
+ORD-010909,12/28/2025,CUST-4100, Smart LED Monitor ,technology,monitors,SOUTH,NORTH CAROLINA,6,231.76,0.19,1130.14,92.93,first class, Consumer 
+ORD-010910,2025-12-14,CUST-8860,cordless phone dock,Technology, Accessories , East ,new york,3,$69.62,0.12,183.48,34.54,SECOND CLASS,Consumer
+ORD-010911,12/14/2025,CUST-3920,Desk Organizer Set,OFFICE SUPPLIES,storage,EAST,NEW JERSEY,3,33.64,0.16,84.82,27.68, Standard Class ,CONSUMER
+ORD-010912,25-Dec-2025,CUST-5665,Ergonomic Office Chair,Furniture,Chairs,south, Tennessee ,3,200.58,0.23,$460.45,-68.94, Standard Class ,corporate
+ORD-010913,12/12/2025,CUST-4239, Ink Cartridge Pack , Office Supplies ,Supplies,south, Tennessee ,5,61.01,0.17,252.68,25.26,STANDARD CLASS, Consumer 
+ORD-010914,26-Dec-2025,CUST-3319,cordless phone dock, Technology ,Accessories, East , Pennsylvania ,4,64.18,0.06,240.41,56.17,standard class, Consumer 
+ORD-010915,12/24/2025,CUST-8342, Compact Printer ,TECHNOLOGY,Printers,West,CALIFORNIA,5,$133.53,0.11,592.63,-30.89, Standard Class ,home office
+ORD-010916,08-Dec-2025,CUST-3177,Premium Standing Desk,Furniture, Tables , West ,nevada,3,430.16,0.17,1075.06,-40.73, Second Class ,Corporate
+ORD-010917,12/30/2025,CUST-4303,wireless keyboard, Technology , Accessories ,SOUTH,Tennessee,4,73.47,0.17,245.08,53.69,Standard Class, Consumer 
+ORD-010918,23-Dec-2025,CUST-5296,WIRELESS KEYBOARD,TECHNOLOGY,ACCESSORIES,CENTRAL,TEXAS,3,73.83,0.07,206.18,65.6, Second Class ,Consumer
+ORD-010919,27-Dec-2025,,Premium Notebook Bundle,electronics, Paper ,central,colorado,3,18.22,0.04,52.74,24.93, Same Day ,Home Office
+ORD-010920,12/04/2025,CUST-4434,WIRELESS KEYBOARD,technology,accessories,EAST,new york,2,74.46,0.17,124.31,28.45, Standard Class ,corporate
+ORD-010921,18-Dec-2025,CUST-4856,modular bookshelf,FURNITURE,STORAGE,east,massachusetts,1,170.28,0.15,144.15,-13.1,Standard Class,consumer
+ORD-010922,12/31/2025,CUST-3609, Smart LED Monitor ,Technology,monitors, West , Washington ,3,193.39,0.12,$509.34,76.03,standard class, Consumer 
+ORD-010923,12/06/2025,CUST-3121,file cabinet,FURNITURE,storage,south,Florida,2,227.68,0.18,$375.18,-70.63,SECOND CLASS,Home Office
+ORD-010924,12/11/2025,CUST-8452,modular bookshelf,Furniture,STORAGE,west, Nevada ,3,166.78,0.1,450.65,-11.23,Second Class, Home Office 
+ORD-010925,2025-12-02,CUST-1243,Wireless Keyboard, Technology ,ACCESSORIES,Central, Colorado ,3,67.5,0.01,200.78,71.41,first class, Corporate 
+ORD-010926,2025-12-29,CUST-6389,COMPACT PRINTER,TECHNOLOGY, Printers ,south,NORTH CAROLINA,2,133.89,0.19,217.14,-34.5,STANDARD CLASS, Corporate 
+ORD-010927,12/08/2025,CUST-2465,modular bookshelf, Furniture ,STORAGE,WEST,OREGON,2,168.54,0.08,311.34,0.42,FIRST CLASS, Home Office 
+ORD-010928,2025-12-26,CUST-3267,wireless keyboard,Technology,accessories, West ,CALIFORNIA,3,71.0,0.03,$205.73,68.96,same day,CONSUMER
+ORD-010929,05-Dec-2025,CUST-6646, Ink Cartridge Pack , Office Supplies , Supplies ,south,GEORGIA,4,55.85,0.16,$188.24,20.32,Second Class, Corporate 
+ORD-010930,12/17/2025,CUST-8898,Smart LED Monitor,TECHNOLOGY, Monitors ,WEST, California ,5,230.58,0.06,1078.73,222.66,Standard Class,Consumer
+ORD-010931,12/06/2025,CUST-4505, Ergonomic Office Chair ,FURNITURE,Chairs,south,Tennessee,4,201.82,0.22,631.04,-78.78,same day,CONSUMER
+ORD-010932,2025-12-26,CUST-4694,smart led monitor,Technology,Monitors,west,California,2,235.63,0.12,412.98,$63.27,SECOND CLASS,Corporate
+ORD-010933,12/15/2025,CUST-2822,CORDLESS PHONE DOCK,Technology,accessories,WEST, Nevada ,5,64.4,0.05,306.84,77.32,SECOND CLASS,Corporate
+ORD-010934,12/28/2025,CUST-2567, Ink Cartridge Pack ,OFFICE SUPPLIES,SUPPLIES,south, North Carolina ,3,60.17,0.1,162.71,27.97,second class, Corporate 
+ORD-010935,13-Dec-2025,CUST-3480, Smart LED Monitor ,technology,monitors,Central, Colorado ,2,$217.10,0.03,420.93,$98.71,Standard Class,CORPORATE
+ORD-010936,12/17/2025,CUST-8228,cordless phone dock, Technology ,accessories,CENTRAL,Texas,4,$63.73,0.06,239.2,58.97, Standard Class , Home Office 
+ORD-010937,12/20/2025,CUST-4026, Smart LED Monitor ,technology,MONITORS,CENTRAL,Texas,6,$225.55,0.08,1241.12,237.94,second class,home office
+ORD-010938,02-Dec-2025,CUST-4077, Compact Printer ,technology,Printers,WEST,CALIFORNIA,4,133.24,0.04,509.67,11.87,standard class, Home Office 
+ORD-010939,03-Dec-2025,CUST-1744, Smart LED Monitor ,TECHNOLOGY, Monitors ,SOUTH,Georgia,7,230.65,0.23,"$1,246.42",41.96,SECOND CLASS,Consumer
+ORD-010940,12/09/2025,CUST-9149, Smart LED Monitor ,TECHNOLOGY, Monitors ,south, Georgia ,4,$229.02,0.13,$793.79,110.22, First Class , Home Office 
+ORD-010941,16-Dec-2025,CUST-1437,compact printer,TECHNOLOGY, Printers ,SOUTH,georgia,1,142.01,0.11,$125.88,-7.1,second class,CONSUMER
+ORD-010942,12/23/2025,CUST-7426,wireless keyboard,Technology,ACCESSORIES,south, Georgia ,4,75.09,0.08,276.21,81.0, Standard Class , Consumer 
+ORD-010943,22-Dec-2025,CUST-1755, Compact Printer ,TECHNOLOGY, Printers , East ,pennsylvania,2,139.13,0.07,259.18,-0.69,STANDARD CLASS,CORPORATE
+ORD-010944,2025-12-15,CUST-9591,ergonomic office chair,FURNITURE,CHAIRS,south, North Carolina ,5,186.28,0.11,$832.38,7.25, Standard Class ,Corporate
+ORD-010945,2025-12-04,CUST-8770,modular bookshelf,FURNITURE,STORAGE,EAST,NEW JERSEY,4,166.05,0.05,627.86,13.3,Standard Class, Corporate 
+ORD-010946,07-Dec-2025,CUST-6994, Smart LED Monitor ,TECHNOLOGY, Monitors ,CENTRAL,texas,5,225.94,0.08,1034.89,$197.50,second class,CONSUMER
+ORD-010947,2025-12-14,CUST-6201,ergonomic office chair,furniture, Chairs , South ,Florida,2,197.38,0.19,319.41,-28.4,Standard Class, Corporate 
+ORD-010589,04/09/2025,CUST-7542, Smart LED Monitor ,Technology,Monitors,East,new york,2,$244.02,0.11,$431.98,69.59, Same Day ,Corporate
+ORD-010933,12/15/2025,CUST-2822,CORDLESS PHONE DOCK,Technology,accessories,WEST, Nevada ,5,64.4,0.05,306.84,77.32,SECOND CLASS,Corporate
+ORD-010139,05/11/2024,CUST-9916,ergonomic office chair, Furniture ,Chairs,EAST, New Jersey ,3,202.08,0.14,518.79,-12.7,STANDARD CLASS,CORPORATE
+ORD-010086,03/01/2024,CUST-1049,MODULAR BOOKSHELF, Furniture , Storage ,central, Illinois ,1,154.33,0.14,132.45,-10.53, Standard Class ,CONSUMER
+ORD-010039,02/23/2024,CUST-8800,Compact Printer,Technology,PRINTERS,EAST, New Jersey ,5,125.6,0.11,557.21,-32.93,same day,Corporate
+ORD-010743,08/27/2025,CUST-8075,Ergonomic Office Chair, Furniture , Chairs , West ,california,3,194.71,0.05,552.04,39.14,SAME DAY, Consumer 
+ORD-010165,20-May-2024,CUST-8460,premium standing desk,FURNITURE,TABLES,CENTRAL,MINNESOTA,4,441.22,0.08,"$1,616.87",94.47,FIRST CLASS, Home Office 
+ORD-010096,03/06/2024,CUST-5675,Ergonomic Office Chair,FURNITURE, Chairs ,west,nevada,6,191.61,0.1,1034.07,23.17, Standard Class , Corporate 
+ORD-010198,06/01/2024,CUST-4401,Wireless Keyboard,technology,accessories,east,Pennsylvania,1,79.77,0.11,71.28,20.22, Standard Class ,Corporate
+ORD-010250,25-Jul-2024,CUST-1962,ERGONOMIC OFFICE CHAIR,FURNITURE,Chairs,EAST,NEW YORK,6,204.58,0.1,1099.53,24.53, First Class , Corporate 
+ORD-010513,2025-02-11,CUST-4942,smart led monitor,technology,monitors,south,TENNESSEE,3,221.45,0.1,595.69,99.34,second class,corporate
+ORD-010023,29-Jan-2024,CUST-2252, Wireless Keyboard , Technology ,Accessories, Central ,Texas,3,$74.21,0.08,204.68,63.43, Standard Class , Corporate 
+ORD-010312,09/17/2024,CUST-5935,WIRELESS KEYBOARD,Technology,ACCESSORIES,south,tennessee,3,$74.50,0.12,195.97,$50.60, Second Class ,Consumer
+ORD-010030,2024-01-05,CUST-6842,compact printer, Technology ,Printers,Central,minnesota,3,137.09,0.12,363.48,$-18.85,SECOND CLASS, Corporate 
+ORD-010332,10/10/2024,CUST-3009,ergonomic office chair,furniture,chairs,West,California,4,192.39,0.15,$654.49,-21.97,standard class,home office
+ORD-010292,2024-09-02,CUST-9723,ERGONOMIC OFFICE CHAIR,Furniture, Chairs ,West,OREGON,3,205.72,0.08,565.48,26.16,Standard Class,Consumer
+ORD-010904,2025-12-16,CUST-9189,WIRELESS KEYBOARD,technology,Accessories, South ,North Carolina,4,74.55,0.17,247.8,53.85,First Class,home office
+ORD-010070,03/27/2024,CUST-8316,compact printer, Technology ,Printers,east, New York ,5,133.69,0.12,585.76,-39.98,Standard Class,CORPORATE

@@ -1,0 +1,4 @@
+product_name,category,sub_category,revenue,profit,orders,avg_discount,avg_margin,profit_margin,cumulative_revenue_share,revenue_rank,profit_rank
+Premium Standing Desk,Furniture,Tables,148615.21,1188.9,97,0.1275257731958763,0.7933716117896893,0.7999854119911415,0.29243487983347005,1,5
+Ergonomic Office Chair,Furniture,Chairs,108335.37,-1520.7,154,0.13480519480519482,-1.8113025536269691,-1.4036966874253534,0.7707128421440461,3,15
+Compact Printer,Technology,Printers,30531.61,-1119.45,87,0.10114942528735633,-4.15423948207951,-3.6665279033762057,0.8307908631048372,4,14
